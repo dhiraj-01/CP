@@ -1,0 +1,2911 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cpp",
+				"cpp\tC++"
+			],
+			[
+				"pbds",
+				"pbds\tPolicyBasedDataStructure"
+			],
+			[
+				"cycle",
+				"cycle\tCycle(Directed)"
+			],
+			[
+				"shell",
+				"shell_cmd\tabc"
+			],
+			[
+				"next",
+				"next\tfunc"
+			],
+			[
+				"nex",
+				"next\tfunc"
+			],
+			[
+				"nxe",
+				"next\tfunc"
+			],
+			[
+				"prv",
+				"prvAns\tabc"
+			],
+			[
+				"me",
+				"mex\tabc"
+			],
+			[
+				"mask",
+				"mask2\tabc"
+			],
+			[
+				"link",
+				"link-solid.svg"
+			],
+			[
+				"cer",
+				"cerr\tiostream"
+			],
+			[
+				"ass",
+				"assert($1)"
+			],
+			[
+				"prim",
+				"primeFact\tabc"
+			],
+			[
+				"prime",
+				"primefact\tPrimeFactoriztion(Sieve)"
+			],
+			[
+				"primefact",
+				"primefact\tPrimeFactoriztion"
+			],
+			[
+				"cout",
+				"cout\tiostream"
+			],
+			[
+				"all",
+				"all()\tbegin-end"
+			],
+			[
+				"remove",
+				"remove_if\tfunc"
+			],
+			[
+				"is",
+				"is_cycle\tabc"
+			],
+			[
+				"tit",
+				"title\tAttr"
+			],
+			[
+				"spea",
+				"speakText\tabc"
+			],
+			[
+				"msg",
+				"msg〔argument〕"
+			],
+			[
+				"ar",
+				"argv\tabc"
+			],
+			[
+				"comp",
+				"comp\tabc"
+			],
+			[
+				"vis",
+				"vis_stu\tabc"
+			],
+			[
+				"bott",
+				"bottom_right\tabc"
+			],
+			[
+				"top",
+				"top_right\tabc"
+			],
+			[
+				"test",
+				"tests\t(index.js)"
+			],
+			[
+				"read",
+				"readlines〔function〕"
+			],
+			[
+				"fil",
+				"file_path\tabc"
+			],
+			[
+				"load",
+				"loads〔function〕"
+			],
+			[
+				"i1",
+				"i1_file\tabc"
+			],
+			[
+				"file",
+				"file_update\tabc"
+			],
+			[
+				"prof",
+				"prob_info\tabc"
+			],
+			[
+				"YS",
+				"YES"
+			],
+			[
+				"YES",
+				"YES"
+			],
+			[
+				"for",
+				"for\tFor-Loop"
+			],
+			[
+				"operator",
+				"operator[]\tfunc"
+			],
+			[
+				"struct",
+				"structtemp\tTemplated Struct"
+			],
+			[
+				"stru",
+				"struct_\tStruct"
+			],
+			[
+				"str",
+				"struct_\tStruct"
+			],
+			[
+				"clas",
+				"classtemp\tClass Template"
+			],
+			[
+				"long",
+				"long double"
+			],
+			[
+				"Segmen",
+				"SegmentTree\tabc"
+			],
+			[
+				"mxsu",
+				"mxsum\tabc"
+			],
+			[
+				"segment",
+				"segmenttree\tSegmentTree"
+			],
+			[
+				"row",
+				"rows\tabc"
+			],
+			[
+				"segmentTr",
+				"SegmentTree"
+			],
+			[
+				"segme",
+				"segment\t(SegmentTree.sublime-snippet)"
+			],
+			[
+				"se",
+				"segmenttree\tabc"
+			],
+			[
+				"lam",
+				"lamref\tLambda – Catch All by Reference"
+			],
+			[
+				"back",
+				"back_inserter\tfunc"
+			],
+			[
+				"range",
+				"range_update\tabc"
+			],
+			[
+				"fuc",
+				"function\tabc"
+			],
+			[
+				"Segme",
+				"SegmentTree\tabc"
+			],
+			[
+				"merge",
+				"merge\tfunc"
+			],
+			[
+				"tra",
+				"target\tabc"
+			],
+			[
+				"mari",
+				"matrix\tabc"
+			],
+			[
+				"upper",
+				"upper_bound\t(algo.md)"
+			],
+			[
+				"uppr",
+				"upper_bound\t(algo.md)"
+			],
+			[
+				"exis",
+				"exist\ts.find()"
+			],
+			[
+				"tem",
+				"tem\tTemplate"
+			],
+			[
+				"gen",
+				"generate\tfunc"
+			],
+			[
+				"max",
+				"max_element\tfunc"
+			],
+			[
+				"com",
+				"compare.py"
+			],
+			[
+				"pop",
+				"pop_front\tfunc"
+			],
+			[
+				"psuh",
+				"push_back\tfunc"
+			],
+			[
+				"id",
+				"id\tAttr"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"gene",
+				"generate testcase.cpp"
+			],
+			[
+				"dash",
+				"dash"
+			],
+			[
+				"gra",
+				"graph\tabc"
+			],
+			[
+				"zr",
+				"zr_row\tabc"
+			],
+			[
+				"sort",
+				"sort\tfunc"
+			],
+			[
+				"matri",
+				"matrix\tabc"
+			],
+			[
+				"clear",
+				"clearAll\tabc"
+			],
+			[
+				"len",
+				"lengthOfLIS\tabc"
+			],
+			[
+				"poepl",
+				"peoples\tabc"
+			],
+			[
+				"peopl",
+				"people\tabc"
+			],
+			[
+				"ech",
+				"echo_diffrence\tabc"
+			],
+			[
+				"print",
+				"print\tprint(arr)"
+			],
+			[
+				"primefa",
+				"primeFact\tabc"
+			],
+			[
+				"primefac",
+				"primefact\tPrimeFactoriztion"
+			],
+			[
+				"genera",
+				"generate graph tree.cpp"
+			],
+			[
+				"optio",
+				"options\tabc"
+			],
+			[
+				"push",
+				"push_back\tfunc"
+			],
+			[
+				"ge",
+				"generate-password.exe"
+			],
+			[
+				"cin",
+				"cin\tiostream"
+			],
+			[
+				"to_string",
+				"to_string\tabc"
+			],
+			[
+				"shirt",
+				"shirts\tabc"
+			],
+			[
+				"eb",
+				"eb\templace_back"
+			],
+			[
+				"fis",
+				"fish\tabc"
+			],
+			[
+				"fish",
+				"fishes\tabc"
+			],
+			[
+				"toU",
+				"to_ullong()"
+			],
+			[
+				"peo",
+				"people\tabc"
+			],
+			[
+				"con",
+				"containsDuplicate\tabc"
+			],
+			[
+				"op",
+				"options\tabc"
+			],
+			[
+				"precisio",
+				"precision"
+			],
+			[
+				"precis",
+				"precision"
+			],
+			[
+				"acti",
+				"activity\tabc"
+			],
+			[
+				"new",
+				"new_color\tabc"
+			],
+			[
+				"opti",
+				"options"
+			],
+			[
+				"opto",
+				"options_list\tabc"
+			],
+			[
+				"color",
+				"colors\tabc"
+			],
+			[
+				"get",
+				"getRandColor"
+			],
+			[
+				"mindif",
+				"mindiff\tabc"
+			],
+			[
+				"subse",
+				"subsetSumCount\tabc"
+			],
+			[
+				"meme",
+				"memset"
+			],
+			[
+				"subs",
+				"subsetSumCount\tabc"
+			],
+			[
+				"echo",
+				"echo_print\tabc"
+			],
+			[
+				"cur",
+				"cur_time\tabc"
+			],
+			[
+				"mul",
+				"multiset"
+			],
+			[
+				"pb",
+				"pb\tpush_back"
+			],
+			[
+				"pre",
+				"prefix\tabc"
+			],
+			[
+				"using",
+				"using\tnamespace"
+			],
+			[
+				"I-stdc",
+				"I-stdc\tbits/stdc++.h"
+			],
+			[
+				"varia",
+				"variantCollection\tabc"
+			],
+			[
+				"i-std",
+				"I-stdc\tbits/stdc++.h"
+			],
+			[
+				"food",
+				"food_rem\tabc"
+			],
+			[
+				"ext",
+				"extra_food\tabc"
+			],
+			[
+				"foo",
+				"food_suppy\tabc"
+			],
+			[
+				"INT_MAx",
+				"INT_MAX\t(2147483647)"
+			],
+			[
+				"mid",
+				"mid_x\tabc"
+			],
+			[
+				"dif",
+				"diff_y\tabc"
+			],
+			[
+				"input",
+				"input_file\tabc"
+			],
+			[
+				"vali",
+				"validator.exe"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java (Input-Output).sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java (Terminal).sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"14"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Run & Compare"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal 2s"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"Terminal"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/Html.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/Java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/Java.sublime-build",
+					"Terminal"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/Ant.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java (Input-Output).sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java (Terminal).sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Java (Input-Output).sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/Java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/Java.sublime-build",
+					"Terminal"
+				]
+			],
+			[
+				"Packages/User/Build/Java.sublime-build",
+				"Terminal"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java (Input-Output).sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java (Terminal).sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3 (Terminal).sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Build/Html.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/Java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/Java.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/Python3.sublime-build",
+					"Terminal"
+				]
+			],
+			[
+				"Packages/User/Build/Python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Build/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/Python3.sublime-build",
+					"Terminal"
+				]
+			],
+			[
+				"Packages/User/Build/Python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++ (Input -Output).sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++ (Input -Output).sublime-build",
+					"Compile & Run (Terminal)"
+				],
+				[
+					"Packages/User/Build/C++ (Input -Output).sublime-build",
+					"Run (Terminal)"
+				]
+			],
+			[
+				"Packages/User/Build/C++ (Input -Output).sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++ (Terminal).sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++ (Terminal).sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Build/C++ (Terminal).sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++ - Copy.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++ - Copy.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Build/C++ - Copy.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Compile & Run (Terminal)"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"Compile & Run (Terminal)"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Compile & Run (Terminal)"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Run (Terminal)"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"Run (Terminal)"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Compile & Run (Terminal)"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Run (Terminal)"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Contest"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"Contest"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Compile & Run (Terminal)"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Run (Terminal)"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Test"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"Test"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Complie"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Compile & Run (Terminal)"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Run (Terminal)"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"Compile & Run (Terminal)"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"Terminal"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"-H"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"14"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"C++14"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"C++14"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Run & Compare"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"Terminal"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Run & Compare"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Kill a.exe"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"Run & Compare"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Run & Compare"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal 2s"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Kill \"a.exe\""
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"Kill \"a.exe\""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Run & Compare"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal 2s"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Kill a.exe"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"Terminal 2s"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal (kill 5)"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"Terminal (kill 5)"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal (kill 5s)"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"Terminal (kill 5s)"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal (kill 5s)"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal 2s"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal 2s"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Run & Compare"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"Terminal 2s"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal"
+				],
+				[
+					"Packages/User/Build/C++.sublime-build",
+					"Terminal 5s"
+				]
+			],
+			[
+				"Packages/User/Build/C++.sublime-build",
+				"Terminal"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/Java (Input-Output).sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/Java (Input-Output).sublime-build",
+					"Terminal"
+				]
+			],
+			[
+				"Packages/User/Build/Java (Input-Output).sublime-build",
+				"Terminal"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/Java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/Java.sublime-build",
+					"Terminal"
+				]
+			],
+			[
+				"Packages/User/Build/Java.sublime-build",
+				"Terminal"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/Javascript.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/Javascript.sublime-build",
+					"Terminal"
+				]
+			],
+			[
+				"Packages/User/Build/Javascript.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/Python3.sublime-build",
+					"Run (Terminal)"
+				]
+			],
+			[
+				"Packages/User/Build/Python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/Python3.sublime-build",
+					"Terminal"
+				]
+			],
+			[
+				"Packages/User/Build/Python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/Run.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/Run.sublime-build",
+					"Terminal"
+				]
+			],
+			[
+				"Packages/User/Build/Run.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/thisis.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/thisis.sublime-build",
+					"Terminal"
+				]
+			],
+			[
+				"Packages/User/Build/thisis.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Test.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Test.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Test.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c++ Terminal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++ Terminal.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c++ Terminal.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c++.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/test.sublime-build",
+					""
+				],
+				[
+					"Packages/User/test.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/test.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/untitled.sublime-build",
+					""
+				],
+				[
+					"Packages/User/untitled.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/untitled.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"decry",
+				"Transcrypt::Decrypt"
+			],
+			[
+				"encry",
+				"Transcrypt::Encrypt"
+			],
+			[
+				"view",
+				"PackageDev: View Documentation"
+			],
+			[
+				"for",
+				"Snippet: For Loop"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"txt",
+				"Set Syntax: Textile"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"viewin",
+				"View In Browser"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"uicol",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packge",
+				"Package Control: Remove Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"encr",
+				"Transcrypt::Encrypt"
+			],
+			[
+				"packgedev",
+				"PackageDev: New Theme"
+			],
+			[
+				"view pac",
+				"View Package File"
+			],
+			[
+				"viewpa",
+				"View Package File"
+			],
+			[
+				"file: cop",
+				"File: Copy Path"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"high",
+				"SublimeHighlight: convert to HTML"
+			],
+			[
+				"viewhtml",
+				"SublimeHighlight: view as HTML"
+			],
+			[
+				"pacakge",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet: on",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"view pa",
+				"View Package File"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"fastcode",
+				"FastOlympicCoding: Setup Contest"
+			],
+			[
+				"fas",
+				"FastOlympicCoding: Auto"
+			],
+			[
+				"fast",
+				"FastOlympicCoding: Stop Stress"
+			],
+			[
+				"sublimecode",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"tra",
+				"Transcrypt::ToggleEncryptOnSave"
+			],
+			[
+				"trans",
+				"Transcrypt::ToggleEncryptOnSave"
+			],
+			[
+				"asyle",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"syntax:84",
+				"Set Syntax: x86 and x86_64 Assembly"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"p3",
+				"Set Syntax: P3 Assembly"
+			],
+			[
+				"syntax: 6",
+				"Set Syntax: Assembly x86 (NASM)"
+			],
+			[
+				"nasm",
+				"Set Syntax: Assembly x86 (NASM)"
+			],
+			[
+				"syntax:ass",
+				"Set Syntax: P3 Assembly"
+			],
+			[
+				"cool",
+				"CoolFormat: Quick Format"
+			],
+			[
+				"sublimeA",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"sublimehigh",
+				"SublimeHighlight: copy to clipboard as HTML"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			],
+			[
+				"heigh",
+				"Highlighter: Toggle Highlighter"
+			],
+			[
+				"copy",
+				"File: Copy Path Absolute To Project"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"crpto",
+				"Crypto::Encrypt"
+			],
+			[
+				"autofile",
+				"AutoFileName: Default Settings"
+			],
+			[
+				"autof",
+				"AutoFileName: Quick Settings"
+			],
+			[
+				"auto",
+				"AutoFileName: Quick Settings"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"packains",
+				"Package Control: Install Package"
+			],
+			[
+				"autofil",
+				"AutoFileName: Default Settings"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"main",
+				"Snippet: main(…)"
+			],
+			[
+				"loop",
+				"Snippet: For Loop"
+			],
+			[
+				"ari",
+				"Arithmetic"
+			],
+			[
+				"co",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"task",
+				"Tasks: New"
+			],
+			[
+				"new",
+				"Tasks: New"
+			],
+			[
+				"open",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"coo",
+				"CoolFormat: Quick Format"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"sublimea",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"setup",
+				"FastOlympicCoding: Setup Contest"
+			],
+			[
+				"fasr",
+				"FastOlympicCoding: Run"
+			],
+			[
+				"stre",
+				"Set Syntax: StressSyntax"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"intall p",
+				"Package Control: Install Package"
+			],
+			[
+				"run",
+				"FastOlympicCoding: Run"
+			],
+			[
+				"pacinas",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sublimeme",
+				"Set Syntax: Sublime Text Menu (JSON)"
+			],
+			[
+				"monokai",
+				"Monokai Pro: select theme"
+			],
+			[
+				"mo",
+				"Monokai Pro: select theme"
+			],
+			[
+				"project",
+				"Project: Refresh Folders"
+			],
+			[
+				"kite",
+				"Kite: Help"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python3"
+			],
+			[
+				"python",
+				"Set Syntax: Python3"
+			],
+			[
+				"bra",
+				"BracketHighlighter: Quick Start Guide"
+			],
+			[
+				"cpp",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python3"
+			],
+			[
+				"terminu",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"termi",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminul",
+				"Terminus: List Shells"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python3"
+			],
+			[
+				"buil",
+				"Build: Cancel"
+			],
+			[
+				"About",
+				"About"
+			],
+			[
+				"Snippet: ",
+				"Snippet: java.util."
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"jaa",
+				"Set Syntax: Java"
+			],
+			[
+				"Bu",
+				"Build: Cancel"
+			],
+			[
+				"C By",
+				"Build With: C Terminal ByDhiraj"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"j",
+				"Set Syntax: Java"
+			],
+			[
+				"conver",
+				"Convert Case: Lower Case"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 312.0,
+		"history":
+		[
+			"output.exec",
+			"view.encoding()",
+			"sublime.log_indexing(True)",
+			"A.py",
+			"g++",
+			"print(\"ok\")",
+			"print(\"ok\"0",
+			"cls",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"main",
+			"sublime.log_commands(True)",
+			"sublime.clear",
+			"clear",
+			"cls",
+			"exit()",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"exit",
+			"clear",
+			"56*89",
+			"print(\"8\")",
+			"cls",
+			"exit",
+			"ls",
+			"cls",
+			"exit",
+			"cls",
+			"javac",
+			"dir",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/dhiraj/Github/CP"
+	],
+	"file_history":
+	[
+		"/D/dhiraj/Programming/1.cpp",
+		"/D/dhiraj/Programming/2.cpp",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/C++/C++ default.sublime-snippet",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/C++/C++.sublime-snippet",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Build/C++.sublime-build",
+		"/D/dhiraj/Github/Competitive-Programming/Code Library/Standard Problems/Dynamic Programming/Knapsack/knapsack.cpp",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/C++/to_string.sublime-snippet",
+		"/D/dhiraj/Github/Competitive-Programming/Code Library/Algorithms/algo.md",
+		"/D/dhiraj/Programming/Contest/Feb-Long-2021/Frog Sort.cpp",
+		"/D/dhiraj/Programming/A.java",
+		"/D/dhiraj/Github/Home Page/data.js",
+		"/D/dhiraj/Programming/A.py",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Build/Python3.sublime-build",
+		"/D/dhiraj/Github/Competitive-Programming/Code Library/Algorithms/convexHull (graham scan).cpp",
+		"/D/dhiraj/Github/Competitive-Programming/Code Library/Algorithms/trie.cpp",
+		"/D/dhiraj/Programming/Contest/CF 704 div2/2.cpp",
+		"/D/dhiraj/DDU/Sem-6/SDP/Decoder/frontend/src/app/components/blog/blog-recent/blog-recent.component.html",
+		"/D/dhiraj/Programming/e1.txt",
+		"/D/Waste/codes/code.cpp",
+		"/D/dhiraj/Github/Daily Todo/frontend/index.html",
+		"/D/dhiraj/Github/Daily Todo/README.md",
+		"/D/dhiraj/Github/Daily Todo/.git/index",
+		"/D/dhiraj/Github/Daily Todo/.gitignore",
+		"/D/dhiraj/DDU/Sem-6/SDP/Decoder/.gitignore",
+		"/D/dhiraj/Github/Competitive-Programming/.gitignore",
+		"/D/dhiraj/Github/Daily Todo/frontend/assert/popper.min.js",
+		"/C/Users/Lenovo/AppData/Local/Temp/Rar$DI02.547/29969350_AC_15ms_4kB.cpp",
+		"/C/Users/Lenovo/AppData/Local/Temp/Rar$DI01.509/27385143_AC_60ms_7884kB.cpp",
+		"/C/Users/Lenovo/AppData/Local/Temp/Rar$DI00.115/27382270_AC_0ms_6144kB.cpp",
+		"/D/dhiraj/Games/sudoku.py",
+		"/D/dhiraj/Programming/Hacking/testcase.cpp",
+		"/D/dhiraj/Programming/Hacking/Files/wrong1.cpp",
+		"/D/dhiraj/Programming/Hacking/Files/wa.txt",
+		"/D/dhiraj/Programming/Hacking/Files/in.txt",
+		"/D/dhiraj/Programming/Hacking/Files/correct.cpp",
+		"/D/dhiraj/Programming/Hacking/hack.py",
+		"/D/dhiraj/Programming/Hacking/generate testcase.cpp",
+		"/D/dhiraj/Github/Home Page/index.html",
+		"/D/dhiraj/Github/Competitive-Programming/SublimeText/competitive-companion/index.js",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/C++/input-output.sublime-snippet",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/C++/debug.sublime-snippet",
+		"/D/dhiraj/Programming/debug.h",
+		"/D/dhiraj/Github/Competitive-Programming/Code Library/Algorithms/lca (lowest common ancestor).cpp",
+		"/D/dhiraj/DDU/Sem-6/NIS/2.cpp",
+		"/D/dhiraj/DDU/Sem-6/NIS/9.cpp",
+		"/D/dhiraj/Github/Home Page/script.js",
+		"/D/dhiraj/Programming/Hacking/Files/solve.cpp",
+		"/D/dhiraj/Github/Home Page/style.css",
+		"/D/dhiraj/Github/Competitive-Programming/Code Library/Algorithms/segment tree.cpp",
+		"/D/dhiraj/Programming/Hacking/generator.py",
+		"/D/dhiraj/Programming/Contest/CF 704 div2/3.cpp",
+		"/D/Waste/2.cpp",
+		"/D/Waste/testing/README.md",
+		"/D/Waste/1.cpp",
+		"/D/dhiraj/Programming/Hacking/interactive.cpp",
+		"/D/dhiraj/Programming/Hacking/Files/solve.txt",
+		"/D/dhiraj/Github/Stress Testing/hack.py",
+		"/D/dhiraj/Github/Stress Testing/README.md",
+		"/D/dhiraj/Programming/Contest/C. Minimum Ties.cpp",
+		"/D/dhiraj/Github/Competitive-Programming/Programming/silent.png",
+		"/D/dhiraj/Github/Competitive-Programming/Scripts/run.py",
+		"/D/dhiraj/Stress Testing/generate testcase.cpp",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/C++/Algorithm/Graph-Tree/Graph.sublime-snippet",
+		"/D/dhiraj/Hacking/hack.py",
+		"/D/dhiraj/Hacking/validator.cpp",
+		"/D/dhiraj/Hacking/generate testcase.cpp",
+		"/D/dhiraj/Hacking/testcase.cpp",
+		"/D/dhiraj/Hacking/Files/correct.cpp",
+		"/D/dhiraj/Github/CF Notification/script.js",
+		"/D/dhiraj/Github/CF Notification/index.html",
+		"/D/dhiraj/Github/CF Notification/style.css",
+		"/D/dhiraj/Github/Competitive-Programming/Scripts/cmdlist.py",
+		"/D/dhiraj/Github/Competitive-Coding/Scripts/compare.py",
+		"/D/dhiraj/Github/Competitive-Coding/README.md",
+		"/D/dhiraj/Github/Competitive-Coding/SublimeText/User/FastOlympicCoding.sublime-settings",
+		"/D/dhiraj/Github/Competitive-Coding/SublimeText/User/Package Control.sublime-settings",
+		"/D/dhiraj/Github/Competitive-Coding/SublimeText/User/Build/Html.sublime-build",
+		"/D/dhiraj/Github/Competitive-Coding/Scripts/generate password.cpp",
+		"/D/dhiraj/Github/Competitive-Coding/Scripts/run.py",
+		"/D/dhiraj/Github/Competitive-Coding/Programming/Hacking/hack.py",
+		"/D/dhiraj/Github/Competitive-Coding/Interview/Coding Round Questions/Knowledge Foundry/2.cpp",
+		"/D/dhiraj/Github/Competitive-Coding/Interview/Coding Round Questions/Knowledge Foundry/1.cpp",
+		"/D/dhiraj/voice.vbs",
+		"/D/dhiraj/Programming/Hacking/Files/hello.txt",
+		"/D/dhiraj/Github/Competitive-Programming/Code Library/Algorithms/manacher.cpp",
+		"/D/dhiraj/Github/CF Notification/ac.vbs",
+		"/D/dhiraj/Github/CF Notification/other.vbs",
+		"/D/dhiraj/Github/CF Notification/voice.vbs",
+		"/D/dhiraj/Programming/o1.txt",
+		"/D/dhiraj/Programming/5.cpp",
+		"/D/dhiraj/Programming/6.cpp",
+		"/D/dhiraj/Github/Competitive-Programming/Code Library/Standard Problems/linkedlist problem.cpp",
+		"/D/dhiraj/Programming/3.cpp",
+		"/D/dhiraj/Github/CF Ac Notification/script.js",
+		"/D/dhiraj/Programming/Contest/segment-tree-max-subarray-sum-range-update.cpp",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/C++/grid.sublime-snippet",
+		"/D/Waste/Home Page/data.js",
+		"/D/Waste/Home Page/index.html",
+		"/D/Waste/Home Page/script.js",
+		"/C/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/stdc++.h",
+		"/C/MinGW/lib/gcc/mingw32/9.2.0/include/c++/parallel/queue.h",
+		"/C/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/pb_ds/priority_queue.hpp",
+		"/C/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_queue.h",
+		"/C/MinGW/lib/gcc/mingw32/9.2.0/include/c++/queue",
+		"/C/MinGW/lib/gcc/mingw32/9.2.0/include/c++/math.h",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/C++/Algorithm/Graph-Tree/FenwickTree.sublime-snippet",
+		"/D/dhiraj/Programming/i2.txt",
+		"/D/dhiraj/Programming/in.txt",
+		"/D/dhiraj/Programming/out.txt",
+		"/D/dhiraj/Programming/Hacking/Files/i1.txt",
+		"/D/dhiraj/Programming/i1.txt",
+		"/C/Users/Lenovo/AppData/Local/Kite/session.json",
+		"/C/Users/Lenovo/AppData/Local/Kite/settings.json",
+		"/C/Users/Lenovo/AppData/Local/Kite/user",
+		"/D/dhiraj/Github/Competitive-Programming/Scripts/contest.py",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/Transcrypt/Transcrypt.py",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/C++/Algorithm/DisjointSetUnion.sublime-snippet",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/C++/Algorithm/SqrtDecomposition.sublime-snippet",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/C++/Algorithm/Mo'sAlgo.sublime-snippet",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/C++/Algorithm/Matrix Exponentiation.sublime-snippet",
+		"/D/dhiraj/Github/Competitive-Programming/Code Library/Algorithms/lazy segment tree.cpp",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/C++/Algorithm/Graph-Tree/SegmentTree.sublime-snippet",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/C++/for.sublime-snippet",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/C++AutoComplete/functors/functor.sublime-snippet",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/C++/Snippets/forv.sublime-snippet",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/Java/Snippets/for.sublime-snippet",
+		"/c/mingw/lib/gcc/mingw32/9.2.0/include/c++/bits/ios_base.h"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 130.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 157.0
+	},
+	"output.crypto_error":
+	{
+		"height": 169.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 146.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.transcrypt_error":
+	{
+		"height": 169.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 330.0
+	},
+	"pinned_build_system": "Packages/User/Build/C++.sublime-build",
+	"project": "cp.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"3.",
+				"Programming\\Contest\\CF 704 div2\\3.cpp"
+			],
+			[
+				"2.",
+				"Programming\\2.cpp"
+			],
+			[
+				"1.",
+				"Programming\\1.cpp"
+			],
+			[
+				"algo",
+				"Algorithms\\algo.md"
+			],
+			[
+				"knaps",
+				"Standard Problems\\Dynamic Programming\\Knapsack\\knapsack.cpp"
+			],
+			[
+				"e1",
+				"Programming\\e1.txt"
+			],
+			[
+				"1/",
+				"Programming\\Contest\\Feb-Long-2021\\Frog Sort.cpp"
+			],
+			[
+				"a.java",
+				"Programming\\A.java"
+			],
+			[
+				"a.py",
+				"Programming\\A.py"
+			],
+			[
+				"grah",
+				"Algorithms\\convexHull (graham scan).cpp"
+			],
+			[
+				"trie",
+				"Algorithms\\trie.cpp"
+			],
+			[
+				"tes",
+				"Programming\\Hacking\\testcase.cpp"
+			],
+			[
+				"wa",
+				"Programming\\Hacking\\Files\\wa.txt"
+			],
+			[
+				"wrong",
+				"Programming\\Hacking\\Files\\wrong1.cpp"
+			],
+			[
+				"in",
+				"Programming\\Hacking\\Files\\in.txt"
+			],
+			[
+				"hac",
+				"Programming\\Hacking\\hack.py"
+			],
+			[
+				"corre",
+				"Programming\\Hacking\\Files\\correct.cpp"
+			],
+			[
+				"wrong1",
+				"Programming\\Hacking\\Files\\wrong1.cpp"
+			],
+			[
+				"generat",
+				"Programming\\Hacking\\generate testcase.cpp"
+			],
+			[
+				"1",
+				"Programming\\1.cpp"
+			],
+			[
+				"conver",
+				"Algorithms\\convexHull (graham scan).cpp"
+			],
+			[
+				"con",
+				"Algorithms\\convexHull (graham scan).cpp"
+			],
+			[
+				"debug",
+				"Programming\\debug.h"
+			],
+			[
+				"lca",
+				"Algorithms\\lca (lowest common ancestor).cpp"
+			],
+			[
+				"solve",
+				"Programming\\Hacking\\Files\\solve.cpp"
+			],
+			[
+				"segme",
+				"Algorithms\\segment tree.cpp"
+			],
+			[
+				"2",
+				"Programming\\2.cpp"
+			],
+			[
+				"gene",
+				"Programming\\Hacking\\generator.py"
+			],
+			[
+				"test",
+				"Programming\\Hacking\\testcase.cpp"
+			],
+			[
+				"correc",
+				"Programming\\Hacking\\Files\\correct.cpp"
+			],
+			[
+				"segm",
+				"Algorithms\\segment tree.cpp"
+			],
+			[
+				"sol",
+				"Programming\\Hacking\\Files\\solve.cpp"
+			],
+			[
+				"wrn",
+				"Programming\\Hacking\\Files\\wrong1.cpp"
+			],
+			[
+				"genera",
+				"Programming\\Hacking\\generate testcase.cpp"
+			],
+			[
+				"genr",
+				"Programming\\Hacking\\generator.py"
+			],
+			[
+				"",
+				"Programming\\1.cpp"
+			],
+			[
+				"he",
+				"Programming\\Hacking\\Files\\hello.txt"
+			],
+			[
+				"maa",
+				"Algorithms\\manacher.cpp"
+			],
+			[
+				"o1",
+				"Programming\\o1.txt"
+			],
+			[
+				"5.",
+				"Programming\\5.cpp"
+			],
+			[
+				"5",
+				"Programming\\5.cpp"
+			],
+			[
+				"6",
+				"Programming\\6.cpp"
+			],
+			[
+				"6.",
+				"Programming\\6.cpp"
+			],
+			[
+				"3",
+				"Programming\\3.cpp"
+			],
+			[
+				"coree",
+				"Programming\\Contest\\segment-tree-max-subarray-sum-range-update.cpp"
+			],
+			[
+				"deb",
+				"Programming\\debug.h"
+			],
+			[
+				"debu",
+				"Programming\\debug.h"
+			],
+			[
+				"i2",
+				"Programming\\i2.txt"
+			],
+			[
+				"i1",
+				"Programming\\Hacking\\Files\\i1.txt"
+			],
+			[
+				"i1.txt",
+				"Programming\\i1.txt"
+			],
+			[
+				"hell",
+				"Programming\\Hacking\\Files\\hello.txt"
+			],
+			[
+				"segment",
+				"Algorithms\\segment tree.cpp"
+			],
+			[
+				"lazyseg",
+				"Algorithms\\lazy segment tree.cpp"
+			],
+			[
+				"lazy",
+				"Algorithms\\lazy segment tree.cpp"
+			],
+			[
+				"sege",
+				"Algorithms\\segment tree.cpp"
+			],
+			[
+				"e2",
+				"Programming\\e2.txt"
+			],
+			[
+				"diff",
+				"Programming\\Hacking\\Files\\diff.txt"
+			],
+			[
+				"sf",
+				"Algorithms\\Shortest Path\\shortest path fastest algo (spfa).cpp"
+			],
+			[
+				"dijstr",
+				"Algorithms\\Shortest Path\\dijsktra.cpp"
+			],
+			[
+				"subl",
+				"Standard Problems\\all subaray sum in range(l, r).cpp"
+			],
+			[
+				"de",
+				"Programming\\debug.h"
+			],
+			[
+				"sole",
+				"Programming\\Hacking\\Files\\solve.txt"
+			],
+			[
+				"seg",
+				"Algorithms\\segment tree.cpp"
+			],
+			[
+				"core",
+				"Programming\\Hacking\\Files\\correct.cpp"
+			],
+			[
+				"gener",
+				"Programming\\Hacking\\generate testcase.cpp"
+			],
+			[
+				"data",
+				"Programming\\Extra\\HomePage\\data.js"
+			],
+			[
+				"1.cp",
+				"Programming\\Contest\\CF 704 div2\\1.cpp"
+			],
+			[
+				"corr",
+				"Programming\\Hacking\\Files\\correct.cpp"
+			],
+			[
+				"wrong2",
+				"Programming\\Hacking\\Files\\wrong2.cpp"
+			],
+			[
+				"index",
+				"Programming\\Extra\\HomePage\\index.html"
+			],
+			[
+				"4.",
+				"Programming\\4.cpp"
+			],
+			[
+				"4",
+				"Programming\\4.cpp"
+			],
+			[
+				"scri",
+				"Programming\\Extra\\HomePage\\script.js"
+			],
+			[
+				"gcd",
+				"Programming\\Contest\\Lost in Code\\Nisu and GCD.cpp"
+			],
+			[
+				"dijs",
+				"Algorithms\\Shortest Path\\dijsktra.cpp"
+			],
+			[
+				"dijstra",
+				"Algorithms\\Shortest Path\\dijsktra.cpp"
+			],
+			[
+				"hel",
+				"Programming\\Extra\\hello.txt"
+			],
+			[
+				"minc",
+				"Standard Problems\\min swaps to sort array.cpp"
+			],
+			[
+				"inte",
+				"Programming\\Hacking\\interactive.cpp"
+			],
+			[
+				"gee",
+				"Programming\\Hacking\\generate testcase.cpp"
+			],
+			[
+				"ge",
+				"Programming\\Hacking\\generate testcase.cpp"
+			],
+			[
+				"co",
+				"Programming\\Hacking\\Files\\correct.cpp"
+			],
+			[
+				"minmax",
+				"Standard Problems\\find min-max each subarray of size k.cpp"
+			],
+			[
+				"scrip",
+				"Programming\\Extra\\HomePage\\script.js"
+			],
+			[
+				"coin",
+				"Standard Problems\\Dynamic Programming\\Knapsack\\coin change.cpp"
+			],
+			[
+				"vald",
+				"Programming\\Hacking\\validator.cpp"
+			],
+			[
+				"1.cpp",
+				"Programming\\1.cpp"
+			],
+			[
+				"wrong4",
+				"Programming\\Hacking\\Files\\wrong4.cpp"
+			],
+			[
+				"testca",
+				"Programming\\Hacking\\testcase.cpp"
+			],
+			[
+				"in.tx",
+				"Programming\\Hacking\\Files\\in.txt"
+			],
+			[
+				"alog",
+				"Algorithms\\algo.md"
+			],
+			[
+				"hello",
+				"Programming\\Extra\\hello.txt"
+			],
+			[
+				"lonpa",
+				"Standard Problems\\Dynamic Programming\\LCS\\longest palindromic subsequence.cpp"
+			],
+			[
+				"lo",
+				"Standard Problems\\Dynamic Programming\\LCS\\longest palindromic subsequence.cpp"
+			],
+			[
+				"lps",
+				"Standard Problems\\Dynamic Programming\\LCS\\longest palindromic subsequence.cpp"
+			],
+			[
+				"kth",
+				"Standard Problems\\kth smallest (quick sort).cpp"
+			],
+			[
+				"help",
+				"Programming\\Unsolved\\Help-Chakhiya.cpp"
+			],
+			[
+				"trave",
+				"Standard Problems\\Dynamic Programming\\Bitmask DP\\traveling salesman.cpp"
+			],
+			[
+				"tr",
+				"Standard Problems\\Dynamic Programming\\Bitmask DP\\traveling salesman.cpp"
+			],
+			[
+				"helo",
+				"Programming\\Extra\\hello.txt"
+			],
+			[
+				"lis",
+				"Standard Problems\\Dynamic Programming\\lis (longest incresing subsequence).cpp"
+			],
+			[
+				"maxsub",
+				"Standard Problems\\max circular subarray sum.cpp"
+			],
+			[
+				"readme",
+				"Algorithms\\README.md"
+			],
+			[
+				"usef",
+				"Algorithms\\usefull.md"
+			],
+			[
+				"usefu",
+				"Algorithms\\usefull.md"
+			],
+			[
+				"script",
+				"Programming\\Extra\\HomePage\\script.js"
+			],
+			[
+				"o2",
+				"o2.txt"
+			],
+			[
+				"dif",
+				"Hacking\\Files\\diff.txt"
+			],
+			[
+				"df",
+				"Unsolved\\Feb-Long-2021\\Maximise Function.cpp"
+			],
+			[
+				"ts",
+				"Algorithms\\Topological-sort.cpp"
+			],
+			[
+				"cor",
+				"Programming\\Hacking\\Files\\correct.cpp"
+			],
+			[
+				"esca",
+				"Code\\escape.cpp"
+			],
+			[
+				"maxim",
+				"Programming\\Unsolved\\Feb-Long-2021\\Maximise Function.cpp"
+			],
+			[
+				"nwor",
+				"Standard-problems\\Dynamic Programming\\Bitmask DP\\N-Workers N-Jobs-MinCost.cpp"
+			],
+			[
+				"tra",
+				"Standard-problems\\Dynamic Programming\\Bitmask DP\\Traveling Salesman.cpp"
+			],
+			[
+				"nwo",
+				"Standard-problems\\Dynamic Programming\\Bitmask DP\\N-Workers-N-Jobs-MinCost.cpp"
+			],
+			[
+				"nwork",
+				"Standard-problems\\Dynamic Programming\\Bitmask DP\\N-Workers-N-Jobs-MinCost.cpp"
+			],
+			[
+				"trav",
+				"Standard-problems\\traveling_salesman.cpp"
+			],
+			[
+				"gen",
+				"Programming\\Hacking\\gen-graph-tree.cpp"
+			],
+			[
+				"tsp",
+				"Standard-problems\\traveling_salesman.cpp"
+			],
+			[
+				"sty",
+				"Programming\\Extra\\HomePage\\style.css"
+			],
+			[
+				"a.c",
+				"Programming\\A.c"
+			],
+			[
+				"knap",
+				"Standard-problems\\Dynamic Programming\\Knapsack\\Knapsack.cpp"
+			],
+			[
+				"scr",
+				"Programming\\Extra\\HomePage\\script.js"
+			],
+			[
+				"sub",
+				"Standard-problems\\Dynamic Programming\\Knapsack\\Subset-Sum.cpp"
+			],
+			[
+				"a.p",
+				"Programming\\A.py"
+			],
+			[
+				"dat",
+				"Programming\\Extra\\HomePage\\data.js"
+			],
+			[
+				"inde",
+				"Programming\\Extra\\HomePage\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 800.8,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Waste\\waste.sublime-project"
+			],
+			[
+				"githu",
+				"D:\\dhiraj\\Github\\Competitive-Programming\\SublimeText\\Project\\Github.sublime-project"
+			],
+			[
+				"git",
+				"D:\\dhiraj\\Github\\Competitive-Programming\\SublimeText\\Project\\Github.sublime-project"
+			],
+			[
+				"wa",
+				"D:\\Waste\\waste.sublime-project"
+			],
+			[
+				"wats",
+				"D:\\Waste\\waste.sublime-project"
+			],
+			[
+				"ope",
+				"C:\\Users\\Lenovo\\AppData\\Local\\Packages\\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\\LocalState\\rootfs\\home\\dhiraj-01\\OS\\operating-system.sublime-project"
+			],
+			[
+				"codin",
+				"D:\\dhiraj\\Github\\Competitive-Programming\\SublimeText\\Project\\Coding.sublime-workspace"
+			],
+			[
+				"al",
+				"D:\\dhiraj\\Github\\Competitive-Programming\\SublimeText\\Project\\All.sublime-project"
+			],
+			[
+				"java",
+				"D:\\dhiraj\\Another\\SublimeText3\\Project\\Java-technology.sublime-workspace"
+			],
+			[
+				"my",
+				"D:\\dhiraj\\Another\\SublimeText3\\Project\\MyProject.sublime-project"
+			],
+			[
+				"dee",
+				"D:\\dhiraj\\Another\\deep.sublime-workspace"
+			]
+		],
+		"width": 411.2
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

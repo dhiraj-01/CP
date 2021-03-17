@@ -24,22 +24,25 @@ struct node
 priority_queue<node> pq;
 pq.push(node(1, 2));
 pq.push(node(3, 2));
+// pq = {[1,2], [3,2]}
 
 set<node> s;
 s.insert(node(1, 2));
 s.insert(node(3, 2));
+// s = {[3,2], [1,2]}
 
 vector<node> v;
 v.push_back(node(3, 2));
 v.push_back(node(1, 2));
 sort(v.begin(), v.end());
+// v = {[3,2], [1,2]}
 ```
 
 <details>
   <summary>complete code</summary>
   
-  ```c++
-  #include <bits/stdc++.h>
+```c++
+#include <bits/stdc++.h>
 using namespace std;
 
 #include <ext/pb_ds/assoc_container.hpp>
@@ -69,18 +72,15 @@ void solve(ll &tc)
     priority_queue<node> pq;
     pq.push(node(1, 2));
     pq.push(node(3, 2));
-    // pq = {[1,2], [3,2]}
 
     set<node> s;
     s.insert(node(1, 2));
     s.insert(node(3, 2));
-    // s = {[3,2], [1,2]}
 
     vector<node> v;
     v.push_back(node(3, 2));
     v.push_back(node(1, 2));
     sort(v.begin(), v.end());
-    // v = {[3,2], [1,2]}
 }
 
 int main()
@@ -94,7 +94,7 @@ int main()
     }
     return 0;
 }
-  ```
+```
   
 </details>
 
@@ -128,8 +128,8 @@ sort(v.begin(), v.end(), comp);
 <details>
   <summary>complete code</summary>
   
-  ```c++
-  #include <bits/stdc++.h>
+```c++
+#include <bits/stdc++.h>
 using namespace std;
 
 #include <ext/pb_ds/assoc_container.hpp>
@@ -160,23 +160,28 @@ void solve(ll &tc)
     priority_queue<node, vector<node>, decltype(comp)> pq(comp);
     pq.push(node(1, 2));
     pq.push(node(3, 2));
+    // pq = {[1,2], [3,2]}
 
     set<node, decltype(comp)> s(comp);
     s.insert(node(1, 2));
     s.insert(node(3, 2));
+    // s = {[3,2], [1,2]}
 
     map<node, int, decltype(comp)> m(comp);
     m[node(1, 2)] = 1;
     m[node(1, 3)] = 5;
+    // m = {([1,2], 5)}
 
     pbds<int, decltype(comp)> p(comp);
     p.insert(3);
     p.insert(2);
+    // p = {3, 2}
 
     vector<node> v;
     v.push_back(node(3, 2));
     v.push_back(node(1, 2));
     sort(v.begin(), v.end(), comp);
+    // v = {[3,2], [1,2]}
 }
 
 int main()
@@ -190,5 +195,5 @@ int main()
     }
     return 0;
 }
-  ```
+```
 </details>
