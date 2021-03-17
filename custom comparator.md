@@ -1,4 +1,5 @@
-### custom comparator
+## Custom Comparator in C++
+
 
 ### 1. operator <
 ```c++
