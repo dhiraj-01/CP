@@ -24,7 +24,7 @@
 
     "variants": [
         {
-			// remove '& pause' to automatically close terminal
+	    // remove '& pause' to automatically close terminal
             "name" : "Terminal",
             "cmd" : ["g++", "-std=c++17", "${file_name}", "-o", "a.exe", "&&", "start", "cmd", "/c", "a.exe & pause"],
         },
