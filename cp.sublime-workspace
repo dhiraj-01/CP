@@ -5,7 +5,7 @@
 		[
 			[
 				"cpp",
-				"cpp\tC++"
+				"cpp\tC++ default"
 			],
 			[
 				"pbds",
@@ -2078,6 +2078,9 @@
 	],
 	"file_history":
 	[
+		"/D/dhiraj/Github/CP/README.md",
+		"/D/dhiraj/Github/CP/custom comparator.md",
+		"/D/dhiraj/Github/CP/c++.cpp",
 		"/D/dhiraj/Programming/1.cpp",
 		"/D/dhiraj/Programming/2.cpp",
 		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/C++/C++ default.sublime-snippet",
@@ -2202,10 +2205,7 @@
 		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/C++/Algorithm/Graph-Tree/SegmentTree.sublime-snippet",
 		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings",
 		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/C++/for.sublime-snippet",
-		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/C++AutoComplete/functors/functor.sublime-snippet",
-		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/C++/Snippets/forv.sublime-snippet",
-		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/Java/Snippets/for.sublime-snippet",
-		"/c/mingw/lib/gcc/mingw32/9.2.0/include/c++/bits/ios_base.h"
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/C++AutoComplete/functors/functor.sublime-snippet"
 	],
 	"find":
 	{
@@ -2840,7 +2840,7 @@
 		[
 			[
 				"",
-				"D:\\Waste\\waste.sublime-project"
+				"D:\\dhiraj\\Github\\Competitive-Programming\\SublimeText\\Project\\Coding.sublime-project"
 			],
 			[
 				"githu",
@@ -2902,7 +2902,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 188.0,
+	"side_bar_width": 214.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
