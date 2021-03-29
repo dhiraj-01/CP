@@ -1,6 +1,8 @@
 ## one loop for everything
 
 
+> _Personally i don't recommend to use macro, but for speed it's your choice :octocat:_
+
 ```c++
 #define FOR(i, a, b, s)     for(ll i = (a); i < (b); i += (s))
 #define ROF(i, a, b, s)     for(ll i = (a); i > (b); i += (s))
