@@ -1,0 +1,14 @@
+{
+    "cmd": ["python" ,"${file_name}"],
+    "shell": true,
+    "working_dir": "${file_path}",
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python, source.py",
+
+    "variants": [
+        {
+            "name": "Terminal",
+            "cmd": ["start","cmd", "/c", "python ${file_name}  && pause"],
+        }
+    ],
+}

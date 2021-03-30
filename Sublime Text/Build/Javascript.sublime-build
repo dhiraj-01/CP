@@ -1,0 +1,13 @@
+{
+    "shell_cmd" : "node ${file}",
+    "shell" : true,
+    "working_dir" : "${file_path}",
+    "selector" : "source.js",
+
+    "variants": [
+        {
+            "name" : "Terminal",
+            "shell_cmd" : "start cmd /c \"node ${file} & pause\"",
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "cmd": ["javac", "${file_name}", "&&","java", "Main"], // $file_base_name
+    // "path": "C:/Program Files/Java/jdk-12.0.1/bin",
+    "shell": true,
+    "file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+    "selector" : "source.java",
+
+    "variants": [
+        {
+            "name" : "Terminal",
+            "cmd" : ["javac", "${file_name}", "&&", "start","cmd", "/c", "java Main && pause"], // $file_base_name
+            // "path" : "C:/Program Files/Java/jdk-12.0.1/bin",
+            "shell": true,
+        }
+    ],
+}
+
+// Terminal
+
+// {
+//     "cmd" : ["javac", "$file_name", "&&", "start","cmd", "/c", "java Main && pause"], // $file_base_name
+//     "path" : "C:/Program Files/Java/jdk-12.0.1/bin",
+//     "shell": true,
+// }
