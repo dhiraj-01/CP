@@ -1,0 +1,2 @@
+https://github.com/Rapptz/cpp-sublime-snippet
+https://github.com/tushortz/CPP-Completions

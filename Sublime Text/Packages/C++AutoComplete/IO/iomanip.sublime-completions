@@ -1,0 +1,16 @@
+{
+	"scope": "source.c, source.cpp, source.c++",
+	"completions":
+	[
+		{"trigger": "get_money\tiomanip", "contents": "get_money"},
+		{"trigger": "get_time\tiomanip", "contents": "get_time"},
+		{"trigger": "put_money\tiomanip", "contents": "put_money"},
+		{"trigger": "put_time\tiomanip", "contents": "put_time"},
+		{"trigger": "resetiosflags\tiomanip", "contents": "resetiosflags"},
+		{"trigger": "setbase\tiomanip", "contents": "setbase"},
+		{"trigger": "setfill\tiomanip", "contents": "setfill"},
+		{"trigger": "setiosflags\tiomanip", "contents": "setiosflags"},
+		{"trigger": "setprecision\tiomanip", "contents": "setprecision"},
+		{"trigger": "setw\tiomanip", "contents": "setw"},
+	]
+}

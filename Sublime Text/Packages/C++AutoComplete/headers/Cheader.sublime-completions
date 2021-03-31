@@ -1,0 +1,30 @@
+{
+	"scope": "source.c",
+	"completions":
+	[
+		{"trigger": "I-assert\tinc", "contents": "#include <assert.h>\n"},
+		{"trigger": "I-ctype\tinc", "contents": "#include <ctype.h>\n"},
+		{"trigger": "I-errno\tinc", "contents": "#include <errno.h>\n"},
+		{"trigger": "I-fenv\tinc", "contents": "#include <fenv.h>\n"},
+		{"trigger": "I-float\tinc", "contents": "#include <float.h>\n"},
+		{"trigger": "I-inttypes\tinc", "contents": "#include <inttypes.h>\n"},
+		{"trigger": "I-iso646\tinc", "contents": "#include <iso646.h>\n"},
+		{"trigger": "I-limits\tinc", "contents": "#include <limits.h>\n"},
+		{"trigger": "I-locale\tinc", "contents": "#include <locale.h>\n"},
+		{"trigger": "I-math\tinc", "contents": "#include <math.h>\n"},
+		{"trigger": "I-setjmp\tinc", "contents": "#include <setjmp.h>\n"},
+		{"trigger": "I-signal\tinc", "contents": "#include <signal.h>\n"},
+		{"trigger": "I-stdarg\tinc", "contents": "#include <stdarg.h>\n"},
+		{"trigger": "I-stdbool\tinc", "contents": "#include <stdbool.h>\n"},
+		{"trigger": "I-stddef\tinc", "contents": "#include <stddef.h>\n"},
+		{"trigger": "I-stdint\tinc", "contents": "#include <stdint.h>\n"},
+		{"trigger": "I-stdio\tinc", "contents": "#include <stdio.h>\n"},
+		{"trigger": "I-stdlib\tinc", "contents": "#include <stdlib.h>\n"},
+		{"trigger": "I-string\tinc", "contents": "#include <string.h>\n"},
+		{"trigger": "I-tgmath\tinc", "contents": "#include <tgmath.h>\n"},
+		{"trigger": "I-time\tinc", "contents": "#include <time.h>\n"},
+		{"trigger": "I-uchar\tinc", "contents": "#include <uchar.h>\n"},
+		{"trigger": "I-wchar\tinc", "contents": "#include <wchar.h>\n"},
+		{"trigger": "I-wctype\tinc", "contents": "#include <wctype.h>\n"}
+	]
+}

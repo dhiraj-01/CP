@@ -1,0 +1,10 @@
+{
+	"scope": "source.c, source.cpp, source.c++",
+	"completions":
+	[
+		// {"trigger": "endl\tostream", "contents": "${1:std::}endl;"},
+        // {"trigger": "endl\tostream", "contents": "\"\\n\";"},
+		{"trigger": "ends\tostream", "contents": "${1:std::}ends;"},
+		{"trigger": "flush\tostream", "contents": "${1:std::}flush;"},
+	]
+}	
