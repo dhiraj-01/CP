@@ -23,7 +23,7 @@
 ### 5. Infinite loop solution
 * kill process by `taskkill /IM process_name /F`   
   ex. for C++ `taskkill /IM a.exe /F` (in terminal)   
-* `ctrl + e` in sublime, `Preferences => key bindings` add this keyboard shortcut   
+* `ctrl + e` in sublime, for that `Preferences => key bindings` add this keyboard shortcut   
   `{ "keys": ["ctrl + e"], "command": "cancel_build" },`
 * Task Manager `a.exe => end task` (C++)
 
