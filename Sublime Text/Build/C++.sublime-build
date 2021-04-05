@@ -16,7 +16,7 @@
 */
 
 {
-    "cmd" : ["g++", "-std=c++17", "${file_name}", "-o", "a.exe", "&&" , "a.exe"],
+    "cmd" : ["g++", "-std=c++17", \"${file_name}\", "-o", "a.exe", "&&" , "a.exe"],
     "shell" : true,
     "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
     "working_dir" : "${file_path}",
@@ -26,12 +26,12 @@
         {
 	    // remove '& pause' to automatically close terminal
             "name" : "Terminal",
-            "cmd" : ["g++", "-std=c++17", "${file_name}", "-o", "a.exe", "&&", "start", "cmd", "/c", "a.exe & pause"],
+            "cmd" : ["g++", "-std=c++17", \"${file_name}\", "-o", "a.exe", "&&", "start", "cmd", "/c", "a.exe & pause"],
         },
         {
             // automaticly kill .exe after 5sec (you can change if you want) timeout /t 5
             "name": "Terminal 5s",
-            "shell_cmd" : "start cmd /c \"echo Compiling ${file} && g++ -std=c++17 ${file_name} -o a.exe && start a.exe && timeout /t 5 && taskkill /IM a.exe /F\"\"",
+            "shell_cmd" : "start cmd /c \"echo Compiling ${file} && g++ -std=c++17 \"${file_name}\" -o a.exe && start a.exe && timeout /t 5 && taskkill /IM a.exe /F\"\"",
         },
         {
             "name": "Kill a.exe",
