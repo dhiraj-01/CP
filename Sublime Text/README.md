@@ -26,6 +26,6 @@
 * open terminal and paste `taskkill /IM a.exe /F`
 * `ctrl + e` in sublime, for that `Preferences => key bindings` add this keyboard shortcut   
   `{ "keys": ["ctrl + e"], "command": "cancel_build" },`
-* Task Manager `a.exe => end task` (C++)
+* Task Manager `a.exe => end task`
 
 [OdatNurd - Sublime Text Tutorials](https://www.youtube.com/channel/UCJAB_XF3kAMqwF85y0hxcXQ)
