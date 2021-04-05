@@ -13,7 +13,7 @@
 
 ### 3. Create a build system for your language
 * Open `Sublime > Go to Tools > Build System > New Build System`.
-* Paste [this build](https://github.com/Dhiraj-01/CP/tree/main/Sublime%20Text/Build) in the file and save as `C++.sublime-build`.
+* Paste [this build](https://github.com/Dhiraj-01/CP/blob/main/Sublime%20Text/Build/C%2B%2B.sublime-build) in the file and save as `C++.sublime-build`.
 * Select custom build `Tools > Build System > C++.sublime-build`.
 
 ### 4. Let's check
