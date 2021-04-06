@@ -1,7 +1,13 @@
 ## My Sublime Text setup for coding (C++ and Windows)
 
-> same steps can be followed for other languages
-> 
+```
+same steps can be followed for other languages
+- Install sublime
+- Install compiler for language
+- Add build file for language
+- Run :)
+```
+
 ### 1. MinGW Compiler 
 * Install Mingw from https://sourceforge.net/projects/mingw/ or https://osdn.net/projects/mingw/releases/ 
 * Youtube video : https://youtu.be/sXW2VLrQ3Bs 
