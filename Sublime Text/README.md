@@ -5,7 +5,7 @@ same steps can be followed for other languages
 - Install sublime
 - Install compiler for language
 - Add build file for language
-- Run :)
+- ctrl + b to Run :)
 ```
 
 ### 1. MinGW Compiler 
@@ -33,5 +33,6 @@ same steps can be followed for other languages
 * `ctrl + e` in sublime, for that `Preferences => key bindings` add this keyboard shortcut   
   `{ "keys": ["ctrl + e"], "command": "cancel_build" },`
 * Task Manager `a.exe => end task`
+
 
 [OdatNurd - Sublime Text Tutorials](https://www.youtube.com/channel/UCJAB_XF3kAMqwF85y0hxcXQ)
