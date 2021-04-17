@@ -1,47 +1,28 @@
 /* 
-# Notes
+# Use
 - change c++ standard, if c++17 is not avilable
-- if your code require input then you have to specify using freopen() or use Terminal option.
-- there are 3 options : 1. Default, 2. Terminal, 3. Terminal 5s
-- use 'ctrl + shift + b' to navigate between them.
-
-# Sublime
-- Tools => Build System => New Build System ...
+- Sublime => Tools => Build System => New Build System ...
 - copy paste this code
 - save as C++.sublime-build
 - Tools => Build System => C++
 - write some code.
-- ctrl + shift + b to select any 1 option.
 - ctrl + b to run your code.
 */
 
 {
-    "cmd" : ["g++", "-std=c++17", \"${file_name}\", "-o", "a.exe", "&&" , "a.exe"],
+    "cmd" : ["g++", "-std=c++17", "${file_name}", "-o", "a.exe", "&&", "start", "cmd", "/c", "a.exe & echo. & pause"],
+    // remove "& echo. & pause" to automatically close terminal
+    // "cmd" : ["g++", "-std=c++17", "${file_name}", "-o", "a.exe", "&&", "start", "cmd", "/c", "a.exe"],
+
     "shell" : true,
     "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
     "working_dir" : "${file_path}",
     "selector" : "source.cpp, source.c++",
 
-    "variants": [
-        {
-	    // remove '& pause' to automatically close terminal
-            "name" : "Terminal",
-            "cmd" : ["g++", "-std=c++17", \"${file_name}\", "-o", "a.exe", "&&", "start", "cmd", "/c", "a.exe & pause"],
-        },
-        {
-            // automaticly kill .exe after 5sec (you can change if you want) timeout /t 5
-            "name": "Terminal 5s",
-            "shell_cmd" : "start cmd /c \"echo Compiling ${file} && g++ -std=c++17 \"${file_name}\" -o a.exe && start a.exe && timeout /t 5 && taskkill /IM a.exe /F\"\"",
-        },
-        {
-            "name": "Kill a.exe",
-            "shell_cmd": "taskkill /IM \"a.exe\" /F"
-        }
-    ],
 }
 
 /*
-${file} -> absolute path (D:/Codes/hello.cpp)
-${file_name} -> just file name (hello.cpp)
-${file_base_name} -> file name without extention (hello)
+${file} -> absolute path "D:/Codes/hello.cpp"
+${file_name} -> just file name "hello.cpp"
+${file_base_name} -> file name without extention "hello"
 */
