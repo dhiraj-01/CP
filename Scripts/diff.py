@@ -72,14 +72,3 @@ if(diffrence == ""):
     print(diffrence)
 else:
     print(diffrence)
-    '''    
-    if(1):
-        print(diffrence)
-    else:
-        diff_file = "D:/dhiraj/Programming/Hacking/Files/diff.txt"
-        with open(diff_file, "w") as file:
-            file.write(diffrence)
-
-        execute = f'start cmd /c \"more "{diff_file}" && pause\"'
-        system(execute)
-    '''
