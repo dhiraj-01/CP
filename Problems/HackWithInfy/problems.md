@@ -66,3 +66,13 @@ for(ll i = 1; i <= n; i++) {
 print(ans)
 ```
 tag : `graph`, `dijkstra`
+
+
+### problem4:
+```
+Given an array of integers of length N and an integer K
+find length of the smallest subarray  with number of good pairs in it is atleast K ( >= K)
+We define good pair as pair of indices i, j such that i < j ans a[i] is even and a[j] is odd.
+
+2 <= N <= 1e5
+```
