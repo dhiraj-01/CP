@@ -8,7 +8,7 @@ find any subset such that their product of element is 10 ^ z, return z
 maximize z
 
 constraints:
-n <= 1e5
+1 <= n <= 1e5
 a[i] <= 1e9
 
 testcase:
@@ -34,7 +34,7 @@ after doing operations(0 or more time) remaining array should contain equal 1's 
 find minimum number elements you need to remove
 
 constraints:
-n <= 1e5
+1 <= n <= 1e5
 0 <= a[i] <= 1
 
 testcase:
@@ -64,6 +64,12 @@ for(ll i = 1; i <= n; i++) {
     }
 }
 print(ans)
+
+constraints:
+1 <= n <= 1e5
+0 <= m <= 1e9
+1 <= a[i] <= 1e4
+1 <= b[i] <= 1e3
 ```
 tag : `graph`, `dijkstra`
 
@@ -74,5 +80,6 @@ Given an array of integers of length N and an integer K
 find length of the smallest subarray  with number of good pairs in it is atleast K ( >= K)
 We define good pair as pair of indices i, j such that i < j ans a[i] is even and a[j] is odd.
 
+constraints:
 2 <= N <= 1e5
 ```
