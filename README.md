@@ -6,8 +6,9 @@
 | Name                  | Link                                                          |
 | --------------------- | ------------------------------------------------------------- |
 | Atcoder library       | https://github.com/atcoder/ac-library                         |
-| leetcode questions    | https://github.com/fterh/leetcode-curation-topical            |
-| coding notes          | https://github.com/ankitpriyarup/Coding_Notes                 |
+| Leetcode questions    | https://github.com/fterh/leetcode-curation-topical            |
+| Algo-lib              | https://github.com/saketh-are/algo-lib                        |
+| Coding notes          | https://github.com/ankitpriyarup/Coding_Notes                 |
 | Algo DS Notes         | https://github.com/jainaman224/Algo_Ds_Notes                  |
 | Williamfiset          | https://github.com/williamfiset/Algorithms                    |
 | Alexandru Valeanu     | https://github.com/AlexandruValeanu/Competitive-Programming   |
