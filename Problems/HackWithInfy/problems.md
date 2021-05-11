@@ -77,8 +77,8 @@ tag : `graph`, `dijkstra`
 ### (4)
 ```
 Given an array of integers of length N and an integer K
-find length of the smallest subarray  with number of good pairs in it is atleast K ( >= K)
-We define good pair as pair of indices i, j such that i < j ans a[i] is even and a[j] is odd.
+find the length of the smallest subarray  with the number of good pairs in it is at least K ( >= K)
+We define good pair as pair of indices i, j such that i < j and a[i] is even and a[j] is odd.
 
 constraints:
 2 <= N <= 1e5
