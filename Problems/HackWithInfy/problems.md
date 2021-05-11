@@ -1,6 +1,6 @@
 ## HackWithInfy problems
 
-### problem1:
+### 1)
 ```
 given array of size n
 each element of array a[i] can be expressed as (2 ^ x) * (5 ^ y), (x >= 0, y >= 0)
@@ -24,7 +24,7 @@ subset = {2, 5, 5, 20} => product = 10 ^ 3
 ```
 tag: `dp`
 
-### problem2:
+### 2)
 ```
 given n and array of 2 * n element
 0 <= a[i] <= 1 (a[i] is 0 or 1)
@@ -49,7 +49,7 @@ select (i, j) => (3, 1) => remove first 3 and last 1 element => array = {x, x, x
 ```
 tag: `greedy`
 
-### problem3:
+### 3)
 ```
 given n node, m
 and 2 arrays a and b
@@ -74,7 +74,7 @@ constraints:
 tag : `graph`, `dijkstra`
 
 
-### problem4:
+### 4)
 ```
 Given an array of integers of length N and an integer K
 find length of the smallest subarray  with number of good pairs in it is atleast K ( >= K)
