@@ -251,23 +251,45 @@ class QuoteCommand(sublime_plugin.TextCommand):
     def run(self, edit):
 
         now = datetime.now()
-        cur_date = now.strftime("%d-%b-%Y ~ %A")
+        cur_date = now.strftime("%d %B %Y ~ %A")
         cur_time = now.strftime("%I:%M:%S %p")
         
-        ind = random.randrange(len(quotes))
-        info = '/*'
-        for q in quotes[ind]:
-            info += "\n**    " + q
-        info += '''
-**
-**    Author : Guest
-**      Date : {}
-**      Time : {}
-*/\n'''.format(cur_date, cur_time)
+        # without quote
+        info = '''/*
+**    author : Dhiraj Govindvira
+**      date : {}
+**      time : {}
+*/
+\n'''.format(cur_date, cur_time)
+
+        # with quote
+#         ind = random.randrange(len(quotes))
+#         info = '/*'
+#         for q in quotes[ind]:
+#             info += "\n**    " + q
+#         info += '''
+# **
+# **    Author : Dhiraj Govindvira
+# **      Date : {}
+# **      Time : {}
+# */\n'''.format(cur_date, cur_time)
 
         file_path = self.view.file_name()
         if(os.path.exists(file_path)):
             with open(file_path, "r") as file:
-                myCode = file.read()
+                myCode = file.readlines()
+
+                # update
+                if len(myCode) >= 6:
+                    if myCode[1] == "**    author : Dhiraj Govindvira\n":
+                        if myCode[5] == "\n":
+                            myCode = myCode[6::]
+                        else:
+                            myCode = myCode[5::]
+
+                code = ""
+                for line in myCode:
+                    code += line
+
                 with open(file_path, "w", encoding = 'utf-8') as file:
-                    file.write(info + myCode)
+                    file.write(info + code)

@@ -1,8 +1,10 @@
 ## Custom packages sublime text
 
-- Cmd : open terminal for current directory
-- Quote : add quote in current file
-- C++AutoComplete : auto completion for cpp language
+- **C++ Auto Complete** : auto complete for c++
+- **Terminal** : open command prompt for current directory
+- **File Explorer** : open file explorer for current directory
+- **Compare** : comapre o1.txt and o2.txt
+- **Quote** : add quote and user info in current file
 
 ### Use :
 - copy all folder into `C:\Users\...\AppData\Roaming\Sublime Text 3\Packages`
@@ -10,6 +12,8 @@
 ```json
 [
     { "keys": ["f5"], "command": "quote" },
-    { "keys": ["ctrl + `"], "command": "cmd" },
+    { "keys": ["f6"], "command": "compare"},
+    { "keys": ["ctrl + `"], "command": "terminal" },
+    { "keys": ["ctrl+shift+`"], "command": "file_explorer" },
 ]
 ```
