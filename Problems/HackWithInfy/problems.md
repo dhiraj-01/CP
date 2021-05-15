@@ -8,7 +8,7 @@ find any subset such that their product of element is 10 ^ z, return z
 maximize z
 
 constraints:
-1 <= n <= 1e5
+1 <= n <= 1e3
 a[i] <= 1e9
 
 testcase:
