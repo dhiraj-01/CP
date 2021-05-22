@@ -13,3 +13,32 @@
 | Williamfiset          | https://github.com/williamfiset/Algorithms                    |
 | Alexandru Valeanu     | https://github.com/AlexandruValeanu/Competitive-Programming   |
 | Ashish Gupta          | https://github.com/Ashishgup1/Competitive-Coding              |
+
+### Practice  
+- Pick a language  
+- Learn topic  
+- Solve standard problems  
+- Try problems from online sites(codeforces, atcoder, leetcode, codechef ..)  
+- Participate in the contest  
+- Practice more  
+
+### Book  
+https://cses.fi/book/book.pdf
+
+### Topics tutorial codeforces
+https://codeforces.com/blog/entry/57282
+
+### Sublime text setup
+**windows**  
+https://github.com/Dhiraj-01/CP/blob/main/Sublime%20Text/README.md
+
+**macos**
+- Install gcc from homebrew using brew install gcc
+- Copy [stdc++.h file](https://github.com/gcc-mirror/gcc/blob/master/libstdc%2B%2B-v3/include/precompiled/stdc%2B%2B.h)
+- Put above stdc++.h named file at `/Library/Developer/CommandLineTools/usr/include/bits/`
+- Sublime c++17 build settings https://pastebin.com/GnNN8cdL
+
+### Youtube
+- Striver https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig
+- CodeNCode https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ
+- Errichto https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg
