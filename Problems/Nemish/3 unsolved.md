@@ -40,7 +40,7 @@ Constraint:
 2 <= weight <= 1000000
 ```
 
-### Solution:
+### Solution
 ```
 :(
 ```
