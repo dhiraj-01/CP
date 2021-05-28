@@ -1,11 +1,11 @@
 # Dynamic Programming  
 
 **Steps to solve dp problems**
-- identify it's dp problem (keys: count total ways, minimize or maximize answer type problems)
-- identify dimention and states
-- state transition
-- recustion + memorization
-- solved :)
+- Identify it's dp problem (keys: count total ways, minimize or maximize answer type problems)
+- Identify dimention and states
+- State transition
+- Recustion + memorization
+- Done :)
 
 ```
 Top Down = Recursive
