@@ -1,13 +1,13 @@
 ### Problem
 ```
-Problem Statement: Given a tree with N nodes and N-1 edges. Each edge has some weight(W). For every pair of vertices i and j (i!=j) there exists a unique path.
+Problem Statement: Given a tree with N nodes and N-1 edges. Each edge has some weight(W).
+For every pair of vertices i and j (i!=j) there exists a unique path.
 
 A special prime factor of any given path is the largest prime factor of all the edges in the path.
 Find the sum of special prime factors of all the possible tree paths.
 
-In other word, special prime factor of the path a to b = max prime factor( weight of edge (a-c), weight of edge(c-d), ... , x-b(consider all weights which are in given path)
-
-example:
+In other word, special prime factor of the path a to b = max prime factor is
+(weight of edge (a-c), weight of edge(c-d), ... , x-b(consider all weights which are in given path)
 
 Sample Input:
 
