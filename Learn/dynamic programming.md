@@ -400,6 +400,8 @@ dp[i][j] = max(
     a[j] - dp[i][j - 1]
 );
 ```
+https://codeforces.com/contest/859/problem/C  
+https://atcoder.jp/contests/abc201/tasks/abc201_d  
 
 ### Jump Game
 
