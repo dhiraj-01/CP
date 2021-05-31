@@ -21,3 +21,6 @@ Ans : 2
 ```
 :(
 ```
+
+### Bonus
+easy version https://www.codechef.com/COOK129B/problems/CSUBS
