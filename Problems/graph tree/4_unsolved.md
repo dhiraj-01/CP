@@ -1,10 +1,12 @@
 ### Problem
 ```
-You are given a rooted binary tree with weights on edges. The distance between two nodes in this tree is the sum of the edge weights on the path between the two nodes. SUM[u] is the sum of the distances between u and all the other nodes in the tree.
+You are given a rooted binary tree with weights on edges.
+The distance between two nodes in this tree is the sum of the edge weights on
+the path between the two nodes. SUM[u] is the sum of the distances between 
+u and all the other nodes in the tree.
 
 task1 : Calculate Sum[root]
 task2 : Calculate the array SUM for all nodes 1 to N.
-
 
 Example :
 (u v w) edge u to v with weight w
