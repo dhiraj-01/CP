@@ -25,14 +25,27 @@
 ### Book  
 https://cses.fi/book/book.pdf
 
-### Topics tutorial codeforces
-https://codeforces.com/blog/entry/57282
+### Resources
+- https://usaco.guide/
+- https://cp-algorithms.com/
+- https://codeforces.com/blog/entry/91363
+
+### Coding websites
+- Codeforces
+- Atcoder
+- Codechef
+- Leetcode
+- Binaryseach
+- Spoj
+- Hackerrank
+- Hackerearth
+- Cses
 
 ### Sublime text setup
-**windows**  
+**Windows**  
 https://github.com/Dhiraj-01/CP/blob/main/Sublime%20Text/README.md
 
-**macos**
+**MacOS**
 - Install gcc from homebrew using brew install gcc
 - Copy [stdc++.h file](https://github.com/gcc-mirror/gcc/blob/master/libstdc%2B%2B-v3/include/precompiled/stdc%2B%2B.h)
 - Put above stdc++.h named file at `/Library/Developer/CommandLineTools/usr/include/bits/`
