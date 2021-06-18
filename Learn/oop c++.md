@@ -226,8 +226,8 @@ In this type of inheritance, one parent class has more than one child class.
 
 Class B and C inherits class A
 
-                A
-                |
+            A
+            |
          ______
         |      |
         B      C
