@@ -52,6 +52,8 @@ https://github.com/Dhiraj-01/CP/blob/main/Sublime%20Text/README.md
 - Sublime c++17 build settings https://pastebin.com/GnNN8cdL
 
 ### Youtube
-- Striver https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig
-- CodeNCode https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ
-- Errichto https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg
+| Name          |  Link                                                    |
+| ------------- | -------------------------------------------------------- |
+| Striver       | https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig |
+| CodeNCode     | https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ |
+| Errichto      | https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg |
