@@ -2,25 +2,13 @@
 
 - https://workat.tech/
 
-### ✌🏻 Other CP repo.
-| Name                  | Link                                                          |
-| --------------------- | ------------------------------------------------------------- |
-| Atcoder library       | https://github.com/atcoder/ac-library                         |
-| Leetcode questions    | https://github.com/fterh/leetcode-curation-topical            |
-| Algo-lib              | https://github.com/saketh-are/algo-lib                        |
-| Coding notes          | https://github.com/ankitpriyarup/Coding_Notes                 |
-| Algo DS Notes         | https://github.com/jainaman224/Algo_Ds_Notes                  |
-| Williamfiset          | https://github.com/williamfiset/Algorithms                    |
-| Alexandru Valeanu     | https://github.com/AlexandruValeanu/Competitive-Programming   |
-| Ashish Gupta          | https://github.com/Ashishgup1/Competitive-Coding              |
-
 ### Practice  
 - Pick a language  
 - Learn topic  
 - Solve standard problems  
-- Try problems from online sites(codeforces, atcoder, leetcode, codechef ..)  
-- Participate in the contest  
-- Practice more  
+- Try problems from online sites(codeforces, atcoder, leetcode, codechef ..)
+- Participate in the contest
+- Practice more :)
 
 ### Book  
 https://cses.fi/book/book.pdf
@@ -57,3 +45,13 @@ https://github.com/Dhiraj-01/CP/blob/main/Sublime%20Text/README.md
 | Striver       | https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig |
 | CodeNCode     | https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ |
 | Errichto      | https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg |
+
+### ✌🏻 Other repo.
+| Name                  | Link                                                          |
+| --------------------- | ------------------------------------------------------------- |
+| Atcoder library       | https://github.com/atcoder/ac-library                         |
+| Leetcode questions    | https://github.com/fterh/leetcode-curation-topical            |
+| Algo-lib              | https://github.com/saketh-are/algo-lib                        |
+| Coding notes          | https://github.com/ankitpriyarup/Coding_Notes                 |
+| Alexandru Valeanu     | https://github.com/AlexandruValeanu/Competitive-Programming   |
+| Ashish Gupta          | https://github.com/Ashishgup1/Competitive-Coding              |
