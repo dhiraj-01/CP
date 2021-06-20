@@ -10,7 +10,7 @@
 - Participate in the contest
 - Practice more :)
 
-### Book  
+### 📚 Book  
 https://cses.fi/book/book.pdf
 
 ### Resources
@@ -18,7 +18,7 @@ https://cses.fi/book/book.pdf
 - https://cp-algorithms.com/
 - https://codeforces.com/blog/entry/91363
 
-### Coding websites
+### 🌐 Coding websites
 - Codeforces
 - Atcoder
 - Codechef
@@ -39,7 +39,7 @@ https://github.com/Dhiraj-01/CP/blob/main/Sublime%20Text/README.md
 - Put above stdc++.h named file at `/Library/Developer/CommandLineTools/usr/include/bits/`
 - Sublime c++17 build settings https://pastebin.com/GnNN8cdL
 
-### Youtube
+### 📹 Youtube
 | Name          |  Link                                                    |
 | ------------- | -------------------------------------------------------- |
 | Striver       | https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig |
