@@ -7,8 +7,9 @@ minus: Decrement the value of a key. If the key's value is currently 1, remove i
 get_max: Return a key with the highest value.
 get_min: Return a key with the lowest value.
 ```
+https://leetcode.com/problems/all-oone-data-structure/
 
 ### Solution
 ```
-:(
+check out leetcode discussion :)
 ```
