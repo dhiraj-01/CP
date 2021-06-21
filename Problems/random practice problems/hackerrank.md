@@ -2,7 +2,7 @@
 
 - https://www.hackerrank.com/challenges/counting-valleys/problem
 - https://www.hackerrank.com/challenges/sherlock-and-cost/problem
-<<details>
+<details>
     <summary>Code in c++</summary>
 
 ```cpp
