@@ -49,6 +49,7 @@ https://github.com/Dhiraj-01/CP/blob/main/Sublime%20Text/README.md
 ### ✌🏻 Other repo.
 | Name                  | Link                                                          |
 | --------------------- | ------------------------------------------------------------- |
+| Tourist 🔥            | https://github.com/the-tourist/algo                           |
 | Atcoder library       | https://github.com/atcoder/ac-library                         |
 | Leetcode questions    | https://github.com/fterh/leetcode-curation-topical            |
 | Algo-lib              | https://github.com/saketh-are/algo-lib                        |
