@@ -3,7 +3,7 @@
 given array of N length and variable k.
 Count the minimum number of elements need to change for make all k size subarrays xor is 0. 
 1 <= N <= 1e4
-0 <= A[i] <= 1000
+0 <= A[i] <= 1024
 
 ex.
 4
@@ -21,8 +21,8 @@ Ans : 2
 
 Observation 1
 ```
-N < 1e4, A[i] <= 1000
-so expected time / space = O(N * 1000)
+N < 1e4, A[i] <= 1024
+so expected time / space = O(N * 1024)
 ```
 Observations 2
 ```
