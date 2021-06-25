@@ -256,7 +256,7 @@ different numbers, type or sequence of arguments.
 2) Runtime (late binding) - function overriding using virtual function
 ```
 ```cpp
-// compiler time - function overloading
+// compile time - function overloading
 #include <iostream>
 using namespace std;
 class Add {
@@ -278,7 +278,7 @@ int main() {
 }
 ```
 ```cpp
-// compiler time - function overriding
+// compile time - function overriding
 #include <iostream>
 using namespace std;
 class A {
@@ -294,12 +294,11 @@ class B: public A {
   }
 };
 int main() {
-  //Parent class object
   A obj;
-  obj.disp();
-  //Child class object
+  obj.disp(); // Super Class Function
+
   B obj2;
-  obj2.disp();
+  obj2.disp(); // Sub Class Function
   return 0;
 }
 ```
@@ -325,9 +324,14 @@ class Dog : public Animal {
 int main() {
   Animal* obj;
   obj = new Dog();
-  obj -> animalSound(); // woof
+  obj -> animalSound(); // "woof"
+  // without virtual keyword output is "This is a generic Function"
   return 0;
 }
+```
+```cpp
+// pure virtual function
+virtual void function() = 0; 
 ```
 - https://beginnersbook.com/2017/08/cpp-polymorphism/
 - https://www.tutorialspoint.com/cplusplus/cpp_polymorphism.htm
@@ -356,7 +360,7 @@ class then the derived class becomes abstract.
 - https://beginnersbook.com/2017/09/cpp-abstract-class/
 
 ### Extra
-- Types of member function https://www.studytonight.com/cpp/types-of-member-function.php
-- Static https://www.studytonight.com/cpp/static-keyword.php
-- Const https://www.studytonight.com/cpp/const-keyword.php
-- C++ function-overloading-vs-function-overriding https://beginnersbook.com/2017/09/cpp-function-overloading-vs-function-overriding/
+- [Types of member function](https://www.studytonight.com/cpp/types-of-member-function.php)
+- [Static keyword](https://www.studytonight.com/cpp/static-keyword.php)
+- [Const keyword](https://www.studytonight.com/cpp/const-keyword.php)
+- [C++ function-overloading-vs-function-overriding](https://beginnersbook.com/2017/09/cpp-function-overloading-vs-function-overriding/)
