@@ -37,7 +37,7 @@ public:
 };
 ```
 
-**Constructor**
+**constructor**
 ```
 Constructor is a special member function of a class that initializes the object
 of the class. Constructor name is same as class name and it doesn’t have a 
@@ -242,6 +242,9 @@ hierarchical inheritance both can be called hybrid inheritance.
 
 ### Polymorphism
 ```
+Polymorphism means "many forms", and it occurs when we have many classes that 
+are related to each other by inheritance.
+
 Function overloading and Operator overloading are examples of polymorphism. 
 Polymorphism is a feature using which an object behaves differently in 
 different situation.
@@ -251,6 +254,80 @@ different numbers, type or sequence of arguments.
 2 types:
 1) Compile time (early binding) - function overloading
 2) Runtime (late binding) - function overriding using virtual function
+```
+```cpp
+// compiler time - function overloading
+#include <iostream>
+using namespace std;
+class Add {
+ public:
+  int sum(int num1, int num2) {
+    return num1 + num2;
+  }
+  int sum(int num1, int num2, int num3) {
+    return num1 + num2 + num3;
+  }
+};
+int main() {
+  Add obj;
+  //This will call the first function
+  cout << "Output: " << obj.sum(10, 20) << endl;
+  //This will call the second function
+  cout << "Output: " << obj.sum(11, 22, 33);
+  return 0;
+}
+```
+```cpp
+// compiler time - function overriding
+#include <iostream>
+using namespace std;
+class A {
+ public:
+  void disp() {
+    cout << "Super Class Function" << endl;
+  }
+};
+class B: public A {
+ public:
+  void disp() {
+    cout << "Sub Class Function";
+  }
+};
+int main() {
+  //Parent class object
+  A obj;
+  obj.disp();
+  //Child class object
+  B obj2;
+  obj2.disp();
+  return 0;
+}
+```
+
+```cpp
+// runtime - virtual function
+#include<iostream>
+using namespace std;
+//Parent class or super class or base class
+class Animal {
+ public:
+  virtual void animalSound() {
+    cout << "This is a generic Function";
+  }
+};
+//child class or sub class or derived class
+class Dog : public Animal {
+ public:
+  void animalSound() {
+    cout << "Woof";
+  }
+};
+int main() {
+  Animal* obj;
+  obj = new Dog();
+  obj -> animalSound(); // woof
+  return 0;
+}
 ```
 - https://beginnersbook.com/2017/08/cpp-polymorphism/
 - https://www.tutorialspoint.com/cplusplus/cpp_polymorphism.htm
@@ -282,3 +359,4 @@ class then the derived class becomes abstract.
 - Types of member function https://www.studytonight.com/cpp/types-of-member-function.php
 - Static https://www.studytonight.com/cpp/static-keyword.php
 - Const https://www.studytonight.com/cpp/const-keyword.php
+- C++ function-overloading-vs-function-overriding https://beginnersbook.com/2017/09/cpp-function-overloading-vs-function-overriding/
