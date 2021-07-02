@@ -1,5 +1,6 @@
-### Bitmask dp practice problems
+### Bitmask dp 
 
+**problems**
 - https://atcoder.jp/contests/abc180/tasks/abc180_e
 - https://atcoder.jp/contests/abc190/tasks/abc190_e
 - https://codeforces.com/contest/16/problem/E

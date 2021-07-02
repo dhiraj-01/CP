@@ -1,5 +1,6 @@
-### DP practice problems
+### Dynamic Programming
 
+**problems**
 - https://codeforces.com/gym/102942/problem/E
 - https://codeforces.com/problemset/problem/1051/D
 - https://codeforces.com/contest/909/problem/C

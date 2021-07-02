@@ -1,5 +1,6 @@
-### Segment tree practice problems
+### Segment tree 
 
+**problems**
 - https://www.spoj.com/problems/RMQSQ/
 - https://www.codechef.com/problems/FLIPCOIN
 - https://www.codechef.com/problems/GGSPAG

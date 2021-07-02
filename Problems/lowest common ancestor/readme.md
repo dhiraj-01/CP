@@ -1,5 +1,6 @@
-### LCA practice problems
+### LCA 
 
+**problems**
 - https://www.spoj.com/problems/LCASQ/  
 - https://www.spoj.com/problems/LCA/
 - https://www.codechef.com/CCHI2021/problems/CCBTS05
