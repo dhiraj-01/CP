@@ -364,3 +364,4 @@ class then the derived class becomes abstract.
 - [Static keyword](https://www.studytonight.com/cpp/static-keyword.php)
 - [Const keyword](https://www.studytonight.com/cpp/const-keyword.php)
 - [C++ function-overloading-vs-function-overriding](https://beginnersbook.com/2017/09/cpp-function-overloading-vs-function-overriding/)
+- [Virtual destructor](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors)
