@@ -365,3 +365,36 @@ class then the derived class becomes abstract.
 - [Const keyword](https://www.studytonight.com/cpp/const-keyword.php)
 - [C++ function-overloading-vs-function-overriding](https://beginnersbook.com/2017/09/cpp-function-overloading-vs-function-overriding/)
 - [Virtual destructor](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors)
+```cpp
+class a {
+public:
+    a() {
+        cout << ("a consructor");
+    }
+    // without virtual it will not call child class destructor
+    virtual ~a() {
+        cout << ("a destructor");
+    }
+};
+class b: public a {
+public:
+    b() {
+        cout << ("b consructor");
+    }
+    ~b() {
+        cout << ("b destructor");
+    }
+};
+
+void solve()
+{
+    a* ptr = new b();
+    delete ptr;
+}
+/*
+"a consructor"
+"b consructor"
+"b destructor"
+"a destructor"
+*/
+```
