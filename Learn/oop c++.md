@@ -111,10 +111,10 @@ example
 ```
 The most commonly used example is the medical capsule. This capsule mixes few types of medicines and stored in one capsule.
 
-A car is having multiple parts..like steering, wheels, engine...etc..which binds together to form a single object 
+A car is having multiple parts, like steering, wheels, engine etc. which binds together to form a single object 
 that is car. So, Here multiple parts of cars encapsulates itself together to form a single object that is Car.
 
-In real time we are using Encapsulation for security purpose...
+In real time we are using Encapsulation for security purpose.
 Encapsulation = Abstraction + Data Hiding.
 ```
 ```cpp
@@ -146,7 +146,7 @@ like color, size, type from the parent vehicle class and create classes like Car
 Mobile
 - samsung
 - apple
-- mi
+- vivo
 ```
 
 ```cpp
@@ -287,8 +287,8 @@ him .He can done coding , testing , analysis and designing depending on the task
 Consider the stadium of common wealth games. Single stadium but it perform multiple task like swimming, lawn 
 tennis etc.
 
-If a girl is married and mother of 2 children doing teaching job then  she is a women first ,, teacher in a school 
-when she is in school,,wife of someone at home,, mother of her children,, and obvious daughter of someone & may be 
+If a girl is married and mother of 2 children doing teaching job then  she is a women first, teacher in a school 
+when she is in school, wife of someone at home, mother of her children, and obvious daughter of someone & may be 
 girl friend of someone (just kidding) means a woman plays diffent roles at different times dats the polymorphism 
 (many forms).
 ```
@@ -394,12 +394,13 @@ obj -> sound();
 5) If the derived class does not implement the pure virtual function of parent 
 class then the derived class becomes abstract.
 ```
-- https://beginnersbook.com/2017/09/cpp-abstract-class/
+- https://beginnersbook.com/2017/09/cpp-abstract-class/  
+
 example
 ```
 Tv Remote..
-Remote is a interface between user and tv..right. which has buttons like 0 to 10, on/off etc but we dont know 
-circuits inside remote...User does not  need to know..Just he is using essential thing that is remote.
+Remote is a interface between user and tv.. right. which has buttons like 0 to 10, on/off etc but we dont know 
+circuits inside remote, User does not  need to know, Just he is using essential thing that is remote.
 
 Let's take the ATM machine. In an ATM machine, we can perform functions like withdraw cash, deposit cash, check 
 balance, print bills, and so on. Even though it performs a lot of actions it doesn’t show us the process. It has 
