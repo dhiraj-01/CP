@@ -107,6 +107,16 @@ the class. To achieve encapsulation, we make all data members of class private
 and create public functions, using them we can get the values from these data 
 members or set the value to these data members.
 ```
+example
+```
+The most commonly used example is the medical capsule. This capsule mixes few types of medicines and stored in one capsule.
+
+A car is having multiple parts..like steering, wheels, engine...etc..which binds together to form a single object 
+that is car. So, Here multiple parts of cars encapsulates itself together to form a single object that is Car.
+
+In real time we are using Encapsulation for security purpose...
+Encapsulation = Abstraction + Data Hiding.
+```
 ```cpp
 class point
 {
@@ -128,6 +138,17 @@ public:
 Inheritance is a feature using which an object of child class acquires the 
 properties of parent class.
 ```
+example
+```
+let's assume that there is a class as Vehicle. All vehicles are not the same. We can inherit common properties 
+like color, size, type from the parent vehicle class and create classes like Car, Bus, Bike.
+
+Mobile
+- samsung
+- apple
+- mi
+```
+
 ```cpp
 #include <iostream>
 using namespace std;
@@ -255,6 +276,22 @@ different numbers, type or sequence of arguments.
 1) Compile time (early binding) - function overloading
 2) Runtime (late binding) - function overriding using virtual function
 ```
+example
+```
+We can take a boy as a real-world example. This boy can be a student, a player, and a writer. 
+So that this boy can exist in different ways in different situations.
+
+A software engineer can perform different task at different instance of time depending on the task assigned  to 
+him .He can done coding , testing , analysis and designing depending on the task assign and the requirement.
+
+Consider the stadium of common wealth games. Single stadium but it perform multiple task like swimming, lawn 
+tennis etc.
+
+If a girl is married and mother of 2 children doing teaching job then  she is a women first ,, teacher in a school 
+when she is in school,,wife of someone at home,, mother of her children,, and obvious daughter of someone & may be 
+girl friend of someone (just kidding) means a woman plays diffent roles at different times dats the polymorphism 
+(many forms).
+```
 ```cpp
 // compile time - function overloading
 #include <iostream>
@@ -358,6 +395,30 @@ obj -> sound();
 class then the derived class becomes abstract.
 ```
 - https://beginnersbook.com/2017/09/cpp-abstract-class/
+example
+```
+Tv Remote..
+Remote is a interface between user and tv..right. which has buttons like 0 to 10, on/off etc but we dont know 
+circuits inside remote...User does not  need to know..Just he is using essential thing that is remote.
+
+Let's take the ATM machine. In an ATM machine, we can perform functions like withdraw cash, deposit cash, check 
+balance, print bills, and so on. Even though it performs a lot of actions it doesn’t show us the process. It has 
+hidden its process by showing only the main things like getting inputs and giving the output.
+
+The next example is the most commonly used mobile phones. On a mobile phone, we can perform so many actions like 
+making a call, sending messages, take pictures, download software and etc. We perform a lot of things but here 
+also we don't know the inside process of these things. Which means the implementation parts are hidden.
+```
+
+**OOPs have following features**
+```
+Object         - Instance of Class
+Class          - Blue print of Object
+Encapsulation  - Protecting our Data
+Inheritence    - One property of object is acquiring to another property of object
+Abstraction    - Hiding our irrelevant Data
+Polymorphism   - Different behaviors at different instances
+```
 
 ### Extra
 - [Types of member function](https://www.studytonight.com/cpp/types-of-member-function.php)
