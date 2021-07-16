@@ -29,7 +29,11 @@ Node {
     int val;
     Node *right, *left;
 }
+
+You are given root of the tree. and K.
+return K-th highest element from the tree.
 ```
+**asked in Disney+ Hotstar**
 
 ### Solution
 ```
