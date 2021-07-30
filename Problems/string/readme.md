@@ -1,6 +1,6 @@
 ### String algorithm
 
-**problems - string mathcing (kmp) | prefix suffix function (z algo) | manacher algo (palindrome)**
+**problems - string matching (kmp) | prefix suffix function (z algo) | manacher algo (palindrome)**
 - https://codeforces.com/contest/126/problem/B
 - https://codeforces.com/contest/1326/problem/D2
 - https://codeforces.com/contest/432/problem/D

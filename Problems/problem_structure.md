@@ -1,21 +1,31 @@
 ### Problem
 ```
 problem statement goes here ...
+```
 
-Constraints:
+**Constraints**
+```
+```
 
-Input:
+**Input**
+```
+```
 
-Output:
+**Output**
+```
+```
 
-Explanation:
-
+**Explanation**
+```
 ```
 
 ### Solution
 ```
 :)
 ```
+
+### Tag
+`easy`, `google`
 
 <details>
     <summary>code</summary>

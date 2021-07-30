@@ -1,11 +1,11 @@
 ### Prefix Sum and Diffrence array
 
-#### Learn
+**learn**  
 - https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/
 - https://codeforces.com/blog/entry/78762
 - https://codeforces.com/blog/entry/86420 
 
-#### problems
+**problems**  
 - https://www.codechef.com/problems/RSP
 - https://www.hackerrank.com/challenges/crush/problem
 - https://leetcode.com/problems/find-pivot-index/
