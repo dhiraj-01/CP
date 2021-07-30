@@ -19,13 +19,13 @@ problem statement goes here ...
 ```
 ```
 
+### Tag
+`easy`, `google`
+
 ### Solution
 ```
 :)
 ```
-
-### Tag
-`easy`, `google`
 
 <details>
     <summary>code</summary>
