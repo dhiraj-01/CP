@@ -28,7 +28,7 @@ problem statement goes here ...
 ```
 
 <details>
-    <summary>code</summary>
+    <summary>code (c++)</summary>
 
 ```
 your code here
