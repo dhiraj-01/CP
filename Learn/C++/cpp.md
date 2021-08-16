@@ -1,4 +1,12 @@
 # C++
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+int main() {
+    cout << "Hello World" << endl;
+    return 0;
+}
+```
 
 ### Data type
 ```cpp
@@ -45,7 +53,7 @@ for(auto it = a.begin(); it != a.end(); it++) {
 ```
 
 #### Stack
-```
+```cpp
 last in first out (LIFO)
 add back
 pop back
@@ -61,7 +69,7 @@ s.clear(); // error, not possible in stack
 ```
 
 #### Queue
-```
+```cpp
 first in first out (FIFO)
 add back
 pop front
@@ -77,7 +85,7 @@ q.clear(); // error, not possible in queue
 ```
 
 #### Deque
-```
+```cpp
 double ended queue
 add front, add back
 pop front, pop back
@@ -95,18 +103,18 @@ q.size();
 q.clear(); // error, not possible in queue 
 ```
 
-### Set
-### Multiset
-### Unordered set
-### Map
-### Multimap
-### Unordered map
-### Priority queue
-### Pbds
-### String
+#### Set
+#### Multiset
+#### Unordered set
+#### Map
+#### Multimap
+#### Unordered map
+#### Priority queue
+#### Pbds
+#### String
 
 ### Lambda function
-```
+```cpp
 [pass by value | reference](parameter) -> return type {
     // code logic
 };
@@ -128,7 +136,7 @@ auto sum = [&c](int a, int b) {
 // c = 1 here
 
 [&] => you can access all varaible pass by reference
-[=] => ...                         pass by value
+[=] => ... pass by value
 
 int x = 10;
 auto add = [&](int y) {
@@ -142,14 +150,14 @@ recursion not possible
 ```
 
 ### Function
-```
+```cpp
 function<return type(parameter)> name = lambda function;
 
 function<int(int)> fact = [&](int n) {
     if(n == 0) return 1;
     return n * fact(n - 1);
 };
-fact(5);
+cout << fact(5);
 
 Note:
 [&] needed to capture fact
