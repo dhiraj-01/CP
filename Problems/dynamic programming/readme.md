@@ -8,3 +8,4 @@
 - https://atcoder.jp/contests/abc201/tasks/abc201_d
 - https://leetcode.com/contest/weekly-contest-241/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/
 - https://codeforces.com/contest/1525/problem/D
+- https://www.codechef.com/problems/HMWPRB
