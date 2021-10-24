@@ -117,7 +117,8 @@ https://cp-algorithms.com/string/manacher.html
 ### Longest Repeated Subsequence
 ```
 find longest subsequnce of string that occures at least twice.
-any ith character in the two subsequences shouldn’t have the same index in the original string. (The occurrences should not overlap)
+any ith character in the two subsequences shouldn’t have the same index in 
+the original string. (The occurrences should not overlap)
 
 similar to longest common subsequence, just ignore when i = j and s[i] = s[j]
 modified lcs(s, s)
@@ -136,7 +137,8 @@ answer = dp[s.size()][s.size()];
 
 ### Minimum edit distance
 ```
-Given two strings str1 and str2 and below operations that can performed on str1. Find minimum number of edits (operations) required to convert str1 into str2.
+Given two strings str1 and str2 and below operations that can performed on str1. 
+Find minimum number of edits (operations) required to convert str1 into str2.
 
 - Insert
 - Remove
@@ -191,7 +193,10 @@ answer = dp[s1.size()][s2.size()]
 
 ### Longest Increasing Subsequence
 ```
-The Longest Increasing Subsequence (LIS) problem is to find the length of the longest subsequence of a given sequence such that all elements of the subsequence are sorted in increasing order. For example, the length of LIS for {10, 22, 9, 33, 21, 50, 41, 60, 80} is 6 and LIS is {10, 22, 33, 50, 60, 80}. 
+The Longest Increasing Subsequence (LIS) problem is to find the length of the
+longest subsequence of a given sequence such that all elements of the subsequence 
+are sorted in increasing order. For example, the length of LIS for 
+{10, 22, 9, 33, 21, 50, 41, 60, 80} is 6 and LIS is {10, 22, 33, 50, 60, 80}. 
 ```
 ```cpp
 - solution(1) O(n ^ 2)
@@ -303,9 +308,12 @@ answer = max in dp
 
 ### Matrix Chain Multiplication
 ```
-Given a sequence of matrices, find the most efficient way to multiply these matrices together. The problem is not actually to perform the multiplications, but merely to decide in which order to perform the multiplications.
+Given a sequence of matrices, find the most efficient way to multiply these 
+matrices together. The problem is not actually to perform the multiplications, 
+but merely to decide in which order to perform the multiplications.
 
-For example, suppose A is a 10 × 30 matrix, B is a 30 × 5 matrix, and C is a 5 × 60 matrix. Then,  
+For example, suppose A is a 10 × 30 matrix, B is a 30 × 5 matrix, and C is a 
+5 × 60 matrix. Then,  
 
 (AB)C = (10 × 30 × 5) + (10 × 5 × 60) = 1500 + 3000 = 4500 operations
 A(BC) = (30 × 5 × 60) + (10 × 30 × 60) = 9000 + 18000 = 27000 operations.

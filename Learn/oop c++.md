@@ -258,6 +258,7 @@ Hybrid inheritance is a combination of more than one type of inheritance. For
 example, A child and parent class relationship that follows multiple and 
 hierarchical inheritance both can be called hybrid inheritance.
 ```
+- [Diamond Problem](https://en.wikipedia.org/wiki/Multiple_inheritance#The_diamond_problem)
 - https://www.tutorialspoint.com/cplusplus/cpp_inheritance.htm
 - https://beginnersbook.com/2017/08/cpp-inheritance/
 

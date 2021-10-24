@@ -2,7 +2,7 @@
 
 https://devdocs.io/cpp/
 
-### Hello World**
+### Hello World
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
@@ -127,7 +127,7 @@ v.erase(iterrator);
 // v.erase(v.begin() + 1) remove 2nd ele
 
 v.begin() + x
-// iterrator to v[x]
+// iterator to v[x]
 
 v.end() - x
 // iterator to v[v.size() - x]
