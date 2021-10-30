@@ -19,9 +19,3 @@
 - https://www.edureka.co/blog/interview-questions/dbms-interview-questions 
 - https://www.softwaretestinghelp.com/top-dbms-interview-questions/
 - https://www.interviewbit.com/dbms-interview-questions/
-
-### OS
-- soon ..
-
-### CN
-- soon or not ..
