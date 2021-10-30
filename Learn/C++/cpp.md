@@ -14,9 +14,6 @@ int main() {
 ```
 
 ### Data Types
-<details>
-    <summary>click</summary>
-
 ```cpp
 int a = 1; 
 // 32 bit => -2^31 to (2^31)-1 => ~ -1e9 to 1e9
@@ -57,12 +54,8 @@ x = 10; // error
 
 // Tip: Always use long long int and long double (for cp)
 ```
-</details>
 
 ### Array
-<details>
-    <summary>click</summary>
-
 ```cpp
 int a[10];
 // 10 integers
@@ -92,7 +85,6 @@ vector<vector<int>> v(10);
 // vector of vector of integers of size 10
 // we can access each vector by index v[index] => vector of int
 ```
-</details>
 
 ### Pair
 ```cpp
@@ -108,9 +100,6 @@ x = 10, s = "update";
 ```
 
 ### Vector
-<details>
-    <summary>click</summary>
-
 ```cpp
 vector<int> v;
 v.push_back(1);
@@ -247,12 +236,8 @@ for(auto it = a.rbegin(); it != a.rend(); it++) {
 // *(v.begin() + x) = v[x]
 cout << (*(v.begin() + 2) == v[2]) << endl;
 ```
-</details>
 
 ### Stack
-<details>
-    <summary>click</summary>
-
 ```cpp
 // last in first out (LIFO)
 // push => add element at the end of stack
@@ -286,12 +271,8 @@ while(!s.empty()) {
     s.pop();
 }
 ```
-</details>
 
 ### Queue
-<details>
-    <summary>click</summary>
-
 ```cpp
 // first in first out (FIFO)
 // push => add element at the end of queue
@@ -325,12 +306,8 @@ while(!q.empty()) {
     q.pop();
 }
 ```
-</details>
 
 ### Deque
-<details>
-    <summary>click</summary>
-
 ```cpp
 // double ended queue
 // add front, add back
@@ -380,12 +357,8 @@ q[index]
 - using index
 - using iterator
 ```
-</details>
 
 ### Priority queue
-<details>
-    <summary>click</summary>
-
 ```cpp
 Priority Queue (push, top, pop)
 Higher value at the top
@@ -431,12 +404,8 @@ while(!pq.empty()) {
     pq.pop();
 }
 ```
-</details>
 
 ### String
-<details>
-    <summary>click</summary>
-
 ```cpp
 string s = "Dhiraj";
 s += '.'; // add char at the end
@@ -483,12 +452,8 @@ s[index]
 - using index
 - using iterator
 ```
-</details>
 
 ### Set
-<details>
-    <summary>click</summary>
-
 ```cpp
 Store unique values in sorted orders
 
@@ -542,7 +507,6 @@ s.begin(); s.end(); s.rbegin(); s.rend();
 - for loop
 - using iterator
 ```
-</details>
 
 ### Multiset
 ```
@@ -552,14 +516,11 @@ Same as set but you can store multiple values
 ### Unordered set
 ```
 Not sorted (unordered)
-Average time comp of operations if O(1)
+Average time comp of operations is O(1)
 worst case O(n)
 ```
 
 ### Map
-<details>
-    <summary>click</summary>
-
 ```cpp
 map<key, value> m;
 
@@ -598,7 +559,6 @@ for(auto it : map) {
 }
 // using iterator
 ```
-</details>
 
 ### Multimap
 ```
@@ -616,18 +576,14 @@ m.insert({1, "hello"});
 
 ### Unordered map
 ```cpp
-Average time comp of operations if O(1)
+Average time comp of operations is O(1)
 worst case O(n)
 ```
 
 ### Pbds
 ```cpp
-In the set we can't get value at particular index but with pbds we can (:
-```
-<details>
-    <summary>Pbds code in c++</summary>
+// In the set we can't get value at particular index but with pbds we can (:
 
-```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -688,7 +644,6 @@ int main()
 
     return 0;
 }
-
 /* for custom comparator
 auto comp = [](const int &lhs, const int &rhs) {
     return lhs > rhs;
@@ -696,7 +651,6 @@ auto comp = [](const int &lhs, const int &rhs) {
 pbds<int, decltype(comp)> p(comp);
 */
 ```
-</details>
 
 ### Bitset
 https://devdocs.io/cpp/utility/bitset
