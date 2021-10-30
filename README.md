@@ -1,4 +1,4 @@
-## ⌨️ Something related to coding ...
+## Competitive Programming
 
 - https://workat.tech/
 
@@ -6,30 +6,33 @@
 - Pick a language  
 - Learn topic  
 - Solve standard problems  
-- Try problems from online sites(codeforces, atcoder, leetcode, codechef ..)
+- Try problems from online sites (codeforces, atcoder, leetcode, codechef ...)
 - Participate in the contest
-- Practice more :)
+- Practice more (:
 
 ### 📚 Book  
 https://cses.fi/book/book.pdf
 
 ### Resources
+- https://leetcode.com/ **The Best for Coding Interviews**
 - https://usaco.guide/
 - https://cp-algorithms.com/
-- https://codeforces.com/blog/entry/91363
 
 ### 🌐 Coding websites
-- Codeforces
-- Atcoder
-- Codechef
-- Leetcode
-- Binaryseach
-- Spoj
-- Hackerrank
-- Hackerearth
-- Cses
+**CP**
+- [Codeforces](https://codeforces.com/)
+- [Atcoder](https://atcoder.jp/)
+- [Codechef](https://www.codechef.com/)
+- [Spoj](https://www.spoj.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [HackerEarth](https://www.hackerearth.com/)
+- [Cses](https://cses.fi/problemset/)
 
-### Sublime text setup
+**Coding Interview**
+- [Leetcode](https://leetcode.com/)
+- [Binaryseach](https://binarysearch.com/)
+
+### My [Sublime text](https://www.sublimetext.com/) setup
 **Windows**  
 https://github.com/Dhiraj-01/CP/blob/main/Sublime%20Text/README.md
 
@@ -46,7 +49,7 @@ https://github.com/Dhiraj-01/CP/blob/main/Sublime%20Text/README.md
 | CodeNCode     | https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ |
 | Errichto      | https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg |
 
-### ✌🏻 Other repo.
+### ✌🏻 Other Good Repo.
 | Name                  | Link                                                          |
 | --------------------- | ------------------------------------------------------------- |
 | Tourist 🔥            | https://github.com/the-tourist/algo                           |
