@@ -1,6 +1,6 @@
 ## Competitive Programming
 
-- https://workat.tech/
+- https://workat.tech/resources
 
 ### Practice  
 - Pick a language  
