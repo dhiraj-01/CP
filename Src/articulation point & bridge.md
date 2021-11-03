@@ -69,7 +69,7 @@ void dfs(ll u, ll p)
                 // u is articulation point
                 ap[u] = 1; 
             }
-            
+
             if(low[v] > lvl[u]) {
                 // (u, v) is bridge
                 bridges.push_back({u, v});
@@ -89,8 +89,9 @@ void dfs(ll u, ll p)
             --- w (p, w) is back edge
             |   .
             |   .
-            |   u---------- (r, u) is back edge
-            |  / \        | 
+            |   (we are here)
+            |   u----------
+            |  / \        | (r, u) is back edge 
             | /   \       |
             |/     \      |
             p       q     |
@@ -98,8 +99,10 @@ void dfs(ll u, ll p)
                       \   |
                        r --
 
-            here we can't use 2 back edge
-            (r, u) and (u, p) + (p, w) to reach w from r or p
+            here we can't use 2 back edges
+            (r, u) and (p, w) to reach w from r or q
+            path: r - u - p - w or q - r - u - p - w
+            
             because if we remove u, both subtree will be disconnect.
             that's why only 1 back edge.
 
