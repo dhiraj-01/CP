@@ -36,6 +36,7 @@ vector<bool> ap;
 
 vector<pair<ll, ll>> bridges;
 
+// O(n)
 void clearAll(ll nn)
 {
     nn += 1;
@@ -47,6 +48,7 @@ void clearAll(ll nn)
     bridges.clear();
 }
 
+// O(n)
 void dfs(ll u, ll p)
 {
     vis[u] = 1;
