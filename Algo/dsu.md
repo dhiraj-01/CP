@@ -1,3 +1,5 @@
+### DSU
+
 ```cpp
 // 1 based index
 struct Dsu

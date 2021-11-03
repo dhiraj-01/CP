@@ -118,7 +118,7 @@ ll dist(ll a, ll b)
     return lvl[a] + lvl[b] - 2 * lvl[lca_ab];
 }
 
-// kth node from path (a, b)
+// kth node in path (a, b)
 // a is 1st node
 ll kth_node(ll a, ll b, ll k)
 {
