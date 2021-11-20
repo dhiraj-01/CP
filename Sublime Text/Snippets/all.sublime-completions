@@ -1,0 +1,114 @@
+{
+    "scope": "source.cpp, source.c++",    
+    "completions":
+    [
+        "DHIRAJ",
+        "endl",
+        "break",
+        "return",
+        "first",
+        "second",
+        "true",
+        "false",
+        "continue",
+        "bitset<32>",
+        "string",
+        "vector",
+        "length()",
+        "size()",
+        "decltype($1)",
+        "isupper($1)",
+        "islower($1)",
+        "toupper($1)",
+        "tolower($1)",
+        "isdigit($1)",
+        "isalpha($1)",
+        "isalnum($1)",
+        "assert($1)",
+        "__builtin_popcountll($1)",
+        "to_ullong()",
+        "long long int",
+        "long double",
+        "unsigned long long int",
+        "LLONG_MAX",
+        "LLONG_MIN",
+        "INT_MAX",
+        "INT_MIN",
+        "ULLONG_MAX",
+
+        {
+            "trigger": "get\tget<index>(tuple)",
+            "contents": "get<${1:index}>(${2:tuple})",
+        },
+        {
+            "trigger": "probinfo",
+            "contents": "/*\nTitle : \nProblem : \nTime Comp. : \nSpace Comp. : \n*/"
+        },
+        {
+            "trigger": "dash", 
+            "contents": "cerr << string(80,'-') << '\\n';"
+        },
+        { 
+            "trigger": "memset",
+            "contents": "memset($1, $2, sizeof($1));"
+        },
+        {
+            "trigger": "using\tnamespace",
+            "contents": "using namespace ${1:name};\n"
+        },
+        { 
+            "trigger": "all()\tbegin-end",
+            "contents": "${1:v}.begin(), ${1:v}.end()"
+        },
+        { 
+            "trigger": "rall()\trbegin-rend",
+            "contents": "${1:v}.rbegin(), ${1:v}.rend()"
+        },
+        
+        { "trigger": "mp\tmake_pair", "contents": "make_pair($1)" },
+        { "trigger": "mt\tmake_tuple", "contents": "make_tuple($1)" },
+        { "trigger": "pb\tpush_back", "contents": "push_back($1)" },
+        { "trigger": "eb\templace_back", "contents": "emplace_back($1)" },
+
+        { "trigger": "exist\ts.find()", "contents": "(${1:s}.find(${2:val}) != ${1:s}.end())" },
+        { "trigger": "arr\tscan(arr)", "contents": "ll n;\ncin >> n;\n\nvector<ll> a(n);\ncin >> a;" },
+        { "trigger": "print\tprint(arr)", "contents": "for(auto &X : $1) {\n\tcout << X << \" \";\n}\ncout << endl;" },
+        { "trigger": "ppair\tprint(pair)", "contents": "for(auto &X : $1) {\n\tcout << X.first << \" \" << X.second << endl;\n}" },
+        { "trigger": "precision", "contents": "cout << fixed << setprecision($1);" },
+        { "trigger": "nl", "contents": "cout << \"\\n\";" },
+        { "trigger": "pi", "contents": "const double PI = acos(-1); // 3.14159265358979323846" },
+        { "trigger": "gcd\t__gcd(a,b)", "contents": "__gcd($1)" },
+        { "trigger": "lcm\t(a * b) / gcd(a, b)", "contents": "(($1) / (__gcd($1, $2)) * ($2))" },
+        { "trigger": "Yes", "contents": "cout << \"Yes\\n\";" },
+        { "trigger": "No", "contents": "cout << \"No\\n\";" },
+        { "trigger": "YES", "contents": "cout << \"YES\\n\";" },
+        { "trigger": "NO", "contents": "cout << \"NO\\n\";" },
+        { "trigger": "put", "contents": "cout << (($1) ? \"YES\" : \"NO\") << endl;" },
+        { "trigger": "flush", "contents": "cout.flush();" },
+        
+        { "trigger": "pq\tpriority_queue", "contents": "priority_queue<${1:ll}>" },
+        { "trigger": "pq\tpriority_queue(comp)", "contents": "priority_queue<${1:ll}, vector<${1:ll}>, decltype(comp)> pq(comp)" },
+        { "trigger": "minpq\tpriority_queue", "contents": "priority_queue<${1:ll}, vector<${1:ll}>, greater<${1:ll}>>" },
+        { "trigger": "list", "contents": "list<${1:ll}>" },
+        { "trigger": "que\tqueue", "contents": "queue<${1:ll}>" },
+        { "trigger": "deq\tdeque", "contents": "deque<${1:ll}>" },
+        { "trigger": "stack\tstack", "contents": "stack<${1:ll}>" },
+        { "trigger": "tuple", "contents": "tuple<${1:ll}>" },
+        { "trigger": "multiset", "contents": "multiset<${1:ll}>" },
+        { "trigger": "unorderset\tunordered_set", "contents": "unordered_set<${1:ll}>" },
+        { "trigger": "multimap", "contents": "multimap<${1:ll}, ${2:ll}>" },
+        { "trigger": "unordermap\tunordered_map", "contents": "unordered_map<${1:ll}, ${2:ll}>" },
+
+        // "pair<${1:ll},${2:ll}>",
+        // "queue<${1:ll}>",
+        // "set<${1:ll}>",
+        // "list<${1:ll}>",
+        // "deque<${1:ll}>",
+        // "stack<${1:ll}>",
+        // "multiset<${1:ll}>",
+        // "unordered_set<${1:ll}>",
+        // "multimap<${1:ll},${2:ll}>",
+        // "unordered_map<${1:ll},${2:ll}>",
+        // "priority_queue<${1:ll}>",
+    ]
+}

@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+#define setbit(pos,n)       n |= (1LL << pos)
+#define resetbit(pos,n)     n &= (~(1LL << pos))
+#define toogle(pos,n)       n ^= (1LL << pos)
+#define atpos(pos,n)        ((n & (1LL << pos)) != 0)
+#define bits(n)             (floor(log2(n)) + 1)
+#define rightone(n)         (__builtin_ffs(n) - 1)
+#define countone(n)         (__builtin_popcountll(n))
+#define parity(n)           (__builtin_parity(n))
+#define counttz(n)          (__builtin_ctzll(n))
+#define countlz(n)          (__builtin_clzll(n))
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>bitmanipulate</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.c++</scope>
+</snippet>

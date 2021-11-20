@@ -1,0 +1,10 @@
+<snippet>
+	<description>for loop</description>
+    <content><![CDATA[
+for(ll ${1:rep} = ${2:0}; ${1:rep} < ${3:n}; ${1:rep}++)
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>for</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.c++</scope>
+</snippet>

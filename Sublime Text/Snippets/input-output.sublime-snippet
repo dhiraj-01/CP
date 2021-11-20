@@ -1,0 +1,15 @@
+<snippet>
+	<description>file input output</description>
+	<content><![CDATA[
+#ifdef DHIRAJ
+	freopen("D:/dhiraj/Programming/i1.txt", "r", stdin);
+	freopen("D:/dhiraj/Programming/o1.txt", "w", stdout);
+    freopen("D:/dhiraj/Programming/e1.txt", "w", stderr);
+#endif
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>inout</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++, source.c</scope>
+</snippet>

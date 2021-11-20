@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+mt19937 rng(std::chrono::steady_clock::now().time_since_epoch().count());
+inline ll rnd(ll l = 0, ll r = 1E9)
+{
+    if(l > r) swap(l, r);
+    return std::uniform_int_distribution<ll>(l, r)(rng);
+    // return std::uniform_real_distribution<long double>(l, r)(rng);
+}
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>random</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.c++</scope>
+</snippet>

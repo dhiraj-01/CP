@@ -1,0 +1,23 @@
+<snippet>
+    <content><![CDATA[
+#ifdef DHIRAJ
+    #include "d:/dhiraj/Programming/default.cpp"
+#else
+    using ll = long long int;
+    #define dbg(...) 1
+#endif
+
+$1
+
+#ifdef DHIRAJ
+void solve() {
+    // Solution sol;
+    // dbg(sol.());
+}
+#endif
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>cpp</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.c++</scope>
+</snippet>

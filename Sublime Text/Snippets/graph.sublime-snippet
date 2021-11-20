@@ -1,0 +1,28 @@
+<snippet>
+    <content><![CDATA[
+${1:
+ll n, m;
+using edge = ll;
+vector<vector<edge>> g;
+
+void clear_all(ll nn)
+{
+    nn += 1;
+    g.assign(nn, vector<edge>());
+\}}
+cin >> n >> m;
+clear_all(n);
+
+for(ll i = 0; i < m; i++)
+{
+    ll u, v;
+    cin >> u >> v;
+    g[u].emplace_back(v);
+    g[v].emplace_back(u);
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>graph</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.c++</scope>
+</snippet>

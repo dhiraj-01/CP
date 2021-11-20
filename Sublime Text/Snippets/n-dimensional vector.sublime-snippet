@@ -1,0 +1,21 @@
+<snippet>
+    <description>N dimensional vector</description>
+    <content><![CDATA[
+template<int D, typename T>
+struct vec : public vector<vec<D - 1, T>> {
+    static_assert(D >= 1, "Vector dimension must be greater than zero!");
+    template<typename... Args>
+    vec(int n = 0, Args... args) : vector<vec<D - 1, T>>(n, vec<D - 1, T>(args...)) {
+    }
+};
+template<typename T>
+    struct vec<1, T> : public vector<T> {
+    vec(int n = 0, const T& val = T()) : vector<T>(n, val) {
+    }
+};
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>nvector</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.c++</scope>
+</snippet>

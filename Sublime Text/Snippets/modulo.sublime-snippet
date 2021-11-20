@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+const ll MOD = 1e9 + 7;
+inline ll md(ll x, const ll &M = MOD)
+{
+    x %= M;
+    return ((x < 0) ? (x + M) : x);
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>modulo</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.c++</scope>
+</snippet>

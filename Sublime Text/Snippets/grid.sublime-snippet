@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+const vector<ll> dx = {1, -1, 0, 0, 1, -1, 1, -1};
+const vector<ll> dy = {0, 0, 1, -1, 1, -1, -1, 1};
+const vector<string> direction = {"D", "U", "R", "L", "RD", "LU", "LD", "RU"};
+
+bool ok(ll x, ll y, ll nn, ll mm, bool index = 0) {
+    return (x >= 0 + index and x < nn + index and y >= 0 + index and y < mm + index);
+}
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>grid</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.c++</scope>
+</snippet>
