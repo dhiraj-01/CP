@@ -75,7 +75,7 @@ class CompareCommand(sublime_plugin.TextCommand):
         if(diffrence == ""):
             diffrence = "Both files are identical."
 
-        diff_file = "D:/dhiraj/Programming/Hacking/Files/diff.txt"
+        diff_file = "D:/dhiraj/Programming/diff.txt"
         with open(diff_file, "w") as file:
             file.write(diffrence)
 
