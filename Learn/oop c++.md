@@ -241,6 +241,9 @@ C inherits A and B both
         ______
           |
           C
+          
+Not possible in Java (possible with Interfaces because in interface we must have to override methods, so no ambiguity)
+in C++ we have to specify scope, A::fun() or B::fun() in C class
 
 4) Hierarchical inheritance
 In this type of inheritance, one parent class has more than one child class.
@@ -259,6 +262,8 @@ example, A child and parent class relationship that follows multiple and
 hierarchical inheritance both can be called hybrid inheritance.
 ```
 - [Diamond Problem](https://en.wikipedia.org/wiki/Multiple_inheritance#The_diamond_problem)
+- https://www.geeksforgeeks.org/multiple-inheritance-in-c/
+- https://www.digitalocean.com/community/tutorials/multiple-inheritance-in-java
 - https://www.tutorialspoint.com/cplusplus/cpp_inheritance.htm
 - https://beginnersbook.com/2017/08/cpp-inheritance/
 
@@ -367,10 +372,20 @@ int main() {
   return 0;
 }
 ```
-```cpp
-// pure virtual function
+
+### pure virtual function
+It is possible that you want to include a virtual function in a base class so that it may be redefined in a derived class to suit the objects of that class, but that there is no meaningful definition you could give for the function in the base class
+```
 virtual void function() = 0; 
 ```
+The = 0 tells the compiler that the function has no body and above virtual function will be called pure virtual function.
+
+### Virtual Function
+A virtual function is a function in a base class that is declared using the keyword virtual. Defining in a base class a virtual function, with another version in a derived class, signals to the compiler that we don't want static linkage for this function.
+
+What we do want is the selection of the function to be called at any given point in the program to be based on the kind of object for which it is called. This sort of operation is referred to as dynamic linkage, or late binding.
+
+- https://www.educative.io/answers/what-does-the-virtual-keyword-do
 - https://beginnersbook.com/2017/08/cpp-polymorphism/
 - https://www.tutorialspoint.com/cplusplus/cpp_polymorphism.htm
 
